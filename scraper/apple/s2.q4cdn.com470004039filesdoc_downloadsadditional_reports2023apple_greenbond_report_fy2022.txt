@@ -1,0 +1,638 @@
+1
+Annual Green Bond Impact Report  |  Fiscal Year 2022 Update
+As part of its commitment to create products with net zero carbon impact by 2030, Apple is investing directly in renewable energy to cover the electricity  
+our customers use when charging Apple products. In fiscal year 2022, Apple invested in this large-scale solar project in Brown County, Texas.Annual Green Bond 
+Impact Report
+Fiscal Year 2022 Update
+2
+Annual Green Bond Impact Report  |  Fiscal Year 2022 Update
+Contents
+Apple’s green bonds  2
+Process for selecting projects and quantifying benefits  3
+Cumulative allocation and benefits 4
+Featured projects 5
+Appendix 12
+•Sustainalytics Review 13
+•Ernst & Young LLP Use of Proceeds Examination 19
+2 Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateApple’s green bonds
+Apple is committed to leaving the world better than we found it, 
+and that commitment is considered in everything we do — from 
+how we design our products to the processes we use to make 
+and recycle them.
+We have long sought to model how businesses can lead in 
+driving the reduction of global carbon emissions, and our green 
+bonds have helped Apple to demonstrate that leadership. We issued our first $1.5 billion green bond in February 2016 and 
+our second $1 billion green bond in June 2017 to help advance 
+projects to mitigate our impact on climate change and inspire 
+others to do the same. Both of these green bonds are now  
+fully allocated.
+In November 2019, we proceeded with our third green 
+bond issuance, and our first in Europe — raising €2 billion 
+(approximately $2.2 billion) across two tranches (the “2019 
+Green Bond”). The 2019 Green Bond supports environmental 
+efforts across the company, as well as our ambitious goal to 
+reach carbon neutrality across Apple’s entire carbon footprint, 
+including the full product life cycle, by 2030.
+1 We first aim to 
+leverage product design and engineering, energy efficiency, renewable energy, and direct emissions abatement to reduce 
+emissions by 75 percent by 2030, compared with fiscal year 
+2015. We then plan to address residual emissions by investing 
+in carbon removal solutions. 
+This year’s annual impact report covers the cumulative 
+allocation of Apple’s 2019 Green Bond proceeds to 
+environmental projects that incurred spend between  
+September 29, 2019, and September 24, 2022 — Apple’s 
+2022, 2021, and 2020 fiscal years.
+ 
+$4.7  billion
+Since February 2016, Apple has 
+issued a total of $4.7 billion in  
+green bonds, with over $3.2 billion allocated to date. 
+3
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateProcess for selecting projects 
+and quantifying benefits
+The 2019 Green Bond proceeds are intended to prioritize projects that 
+mitigate our carbon emissions, including supporting the execution of 
+Apple’s 2030 carbon neutrality roadmap. Our Environment, Policy and 
+Social Initiatives team leads an annual evaluation and project selection process to identify projects eligible for green bond proceeds. The final 
+allocation of net proceeds to eligible projects is determined by our vice 
+president of Environment, Policy and Social Initiatives, based on each project’s alignment with the 2019 Green Bond eligibility criteria:
+•“Low carbon” design and engineering
+•Energy efficiency
+•Renewable energy
+•Carbon mitigation
+•Carbon sequestration
+Apple allocated proceeds to a variety of project types across the eligible 
+categories, including operational projects with immediate direct carbon 
+benefits, capacity-building projects that enable suppliers to achieve carbon emissions reductions, and research and development that will 
+unlock future carbon reductions once scaled. 
+Starting in fiscal year 2022, we’re changing our methodology for 
+quantifying the benefits of eligible projects to a project lifetime 
+calculation. We believe a lifetime calculation to be a better method of 
+quantifying the impact of these projects compared to the prior calculation methodology that entailed estimating annual emissions reductions, as our 
+projects range from 1 to 25 years — well beyond the maturity of the bond 
+and related impact reporting. Accordingly, going forward, for projects with a direct carbon benefit we’re quantifying the total carbon benefit 
+over the project’s lifetime by estimating the annual carbon emissions 
+reductions of each project
+2 and multiplying it by the project’s expected 
+lifetime based on the underlying contracts. We’re also quantifying the 
+new renewable energy capacity we’re adding to the grid through the 
+renewable energy projects to which we’ve allocated green bond proceeds based on the terms of our agreements with project developers.
+4 Annual Green Bond Impact Report  |  Fiscal Year 2022 Update  * A number of projects to which 2019 Green Bond proceeds were allocated since issuance are dedicated to research 
+and development, capacity building, and policy advocacy. These types of projects have an indirect carbon benefit  
+and therefore are not reflected in the Projected Environmental Benefits quantified above.
+** As outlined on page 3, we’re newly reporting greenhouse gas emissions mitigated or offset over the lifetime of 
+projects funded by the 2019 Green Bond. We believe this metric more accurately captures the benefits of the 2019 
+Green Bond, as many of the funded projects have lifetimes well beyond the maturity of the bond and related impact 
+reporting. Lifetime greenhouse gas emissions mitigated or offset includes the combined impact of all projects over  
+the course of their lifetimes, which range from 1 to 25 years.2019 Green Bond  
+Cumulative Allocation
+Fiscal year 2022 update
+Projects
+$706.5 million
+(~32% allocated)
+By Eligibility Category (in millions)3
+Low-carbon  
+design$57.2
+Energy  
+efficiency$4.9
+Renewable 
+energy4$589.7
+Carbon  
+mitigation$7.2
+Carbon  
+sequestration$47.5
+Projected Environmental Benefits5 
+The 59 projects to which Apple allocated 2019 Green Bond funds since issuance  
+are estimated to result in the following direct environmental benefits. *
+13,585,915** 
+metric tons CO2e
+Lifetime greenhouse gas emissions 
+to be mitigated or offset6 707  MW
+Installed renewable  
+energy capacity59
+5
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateFeatured projects
+In fiscal year 2022, we continued to expand the projects that support our 
+2030 carbon neutrality goal, with investments in R&D, renewable energy, 
+and other environmental initiatives. What follows are select examples 
+of the projects to which Apple allocated 2019 Green Bond funds in 
+fiscal year 2022. While we introduced nine new projects in fiscal year 
+2022, the majority of our spend was allocated to continuing long-term 
+environmental initiatives necessary to reach our carbon neutrality goal. 
+The full list of projects with detailed descriptions and key performance 
+indicators was provided to Sustainalytics for their second-party review 
+(see the Appendix for the Sustainalytics Review Statement).
+Product use
+The electricity that our customers use to charge their Apple devices 
+represents 22 percent of Apple’s gross carbon footprint.7 While  
+increased energy efficiency helps drive down emissions from product 
+use, we’re also taking steps to address the emissions that remain  
+through renewable energy. In the U.S., we’ve allocated green bond 
+proceeds to our investment in the 320-megawatt, 2300-acre IP Radian 
+Solar project in Brown County, Texas. Over the next several years, we  
+aim to procure enough renewable energy to power all Apple devices  
+in Europe and the U.S. with clean electricity, while continuing to power 
+corporate offices, retail stores, and data centers with 100 percent 
+renewable electricity.
+Recycled materials
+The use of recycled materials is central to our goal of making carbon-
+neutral products by 2030. Incorporating recovered materials into our 
+design process has already helped us lower the carbon footprint of 
+the products we create. But to maximize the use of recycled content, 
+additional research and development is needed to address challenges 
+of retaining the material purity necessary for use in Apple products, as 
+impurities are often introduced in the material scrap recovery process. 
+In fiscal year 2022, we allocated green bond funds to projects that are 
+investigating ways to remove such impurities from materials so they  
+can be reused in Apple products instead of being downcycled.
+6
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateLow-carbon aluminum
+As part of Apple’s commitment to reducing the environmental impact 
+of our products through innovation, we’ve partnered with aluminum 
+companies and the governments of Canada and Quebec to invest in 
+ELYSIS  — a joint venture between Rio Tinto and Alcoa — to commercialize 
+patented technology that eliminates direct greenhouse gas emissions 
+from the traditional smelting process. This is a revolutionary 
+advancement in the manufacturing of one of the world’s most widely 
+used metals. Since our collaboration began in 2018, we’ve helped 
+accelerate the development of this technology by facilitating the  
+joint partnership and providing initial funding and ongoing technical 
+support. We continue to support this project, disbursing additional  
+funds in fiscal year 2022 toward our original $10 million commitment.
+Following our announcement to do so in spring 2022,8 Apple shipped 
+iPhone SE devices using ELYSIS  aluminum, building on our 2019 purchase 
+from the first-ever commercial batch of aluminum resulting from the joint 
+venture, which was used in the production of the 16-inch MacBook Pro. 
+The commercial-purity aluminum used in these products is the first to be 
+manufactured without creating any direct carbon emissions during the 
+smelting process. Throughout the past year, ELYSIS  has also continued 
+to make progress within its industrial research and development center 
+in Quebec — enabling the venture to begin producing commercial-purity 
+primary aluminum at industrial scale — and continued construction of  
+its larger commercial-scale prototype cells.
+Apple’s green bonds have helped spur a breakthrough in the production of aluminum, creating oxygen instead of greenhouse gases in the smelting process.
+7
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateRenewable energy projects to support Apple’s facilities
+Since 2018,10 all of our offices, retail stores, and data centers across  
+44 countries have sourced 100 percent renewable electricity. We continue 
+to invest in renewable energy projects to keep pace with the growth of 
+Apple’s facilities and add new electricity to the grids in which we operate 
+around the world. In fiscal year 2022, we allocated part of the 2019  
+Green Bond proceeds to a range of projects intended to maintain our  
+goal of using 100 percent renewable electricity for our corporate facilities. 
+For projects representing a long-term financial commitment, we allocated  
+2019 Green Bond proceeds based on the net present value of the  
+project’s cost as of the time the project became operational. 
+For example, in fiscal year 2022, we allocated 2019 Green Bond  
+proceeds to:
+•  Energy storage in California:  To help address the intermittency in 
+renewable electricity production, we’ve invested in utility-scale storage  
+in California and in research on new energy storage technologies.  
+The California storage project — an industry-leading, grid-scale  
+energy storage project capable of storing 240 megawatt-hours of 
+electricity — became operational in fiscal year 2022. This project 
+supports our 130-megawatt California Flats solar farm, which provides  
+all of our renewable energy in California, by storing excess energy 
+generated during the day and deploying it when it is most needed.
+Apple has powered its global corporate operations with 100 percent renewable energy since 2018,  
+ and is working with its global supply chain to expand clean power around the world.
+8
+Annual Green Bond Impact Report  |  Fiscal Year 2022 Update•  Solar project in Arizona: We've entered into a long-term power  
+purchase agreement with Salt River Project for a 7.2-megawatt portion 
+of the 100-megawatt Central Line Solar project in Pinal County, Arizona. 
+Apple’s investment played an important role in initiating the project,  
+and we're now one of several large customers who are sourcing  
+renewable electricity from the project to help power their facilities.
+Reducing emissions in Apple’s supply chain
+Emissions from our manufacturing supply chain represent over  
+70 percent of Apple’s comprehensive carbon footprint, of which  
+electricity use is the single largest contributor. We’ve worked to  
+address these manufacturing emissions through targeted supplier  
+programs, like the Supplier Clean Energy Program and the Supplier 
+Energy Efficiency Program. In fiscal year 2022, we continued  
+to allocate green bond proceeds to both of these programs.
+While we know there’s much work still to do, we continue to make  
+consistent and significant progress. Currently over 200 suppliers have 
+committed to using 100 percent renewable energy for their entire Apple 
+production footprint, representing more than 70 percent of companies 
+on Apple’s Supplier List — those suppliers that make up 98 percent of 
+Apple’s direct spend for materials, manufacturing, and assembly of  
+our products worldwide. In October 2022, we shared details with the  
+executives of our major manufacturing partners about our expectation 
+that our suppliers decarbonize their entire Apple footprint by 2030, 
+including all scope 1 and 2 emissions.
+Supplier Energy Efficiency Program
+The Supplier Energy Efficiency Program, launched in 2015, aims to 
+help optimize our suppliers’ energy use by focusing on approaches to 
+reduce energy use and avoid energy waste. We help suppliers uncover 
+opportunities for energy efficiency projects and assist them with 
+assessments and technical issues where appropriate. Typical energy 
+efficiency projects may include replacing outdated or inefficient heating, 
+cooling, and lighting systems; repairing compressed air leaks; and 
+recovering waste heat.
+9
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateSupplier Clean Energy Program
+Our Supplier Clean Energy Program helps enable suppliers’ transition  
+to clean, renewable electricity through levers such as policy advocacy, 
+information about renewable energy procurement options, data insights, 
+and engagement opportunities with renewable energy experts. 
+• Capacity building. We work to share with our suppliers the knowledge 
+we’ve gained through our own transition to 100 percent renewable 
+energy. Our clean energy training program offers updates on available 
+energy procurement options in suppliers’ markets, helps them prepare 
+for upcoming renewable energy pilots, and provides guidance from 
+local experts on implementation. This program supplements our Clean 
+Energy Portal, which is available to all suppliers and provides training 
+materials, resources, and country-specific information to guide them  
+in their transition to renewable energy. In 2022, we announced plans  
+to donate these resources to create a first-of-its-kind public training 
+platform that is free for businesses across many different industries, 
+ensuring that companies of all sizes — in Apple’s supply chain and 
+beyond — will have access to resources and advocacy networks. And 
+we support the creation and growth of renewable energy and carbon 
+industry associations that our suppliers can join to learn about local 
+opportunities. By connecting our suppliers and other companies with 
+resources to help them assess their performance and opportunities to 
+transition to renewable energy, our teams are scaling impact not only 
+across our own supply chain, but in supply chains around the globe.
+• Advocating for strong policy.  Government policies and rules can  
+present some of the most significant barriers to transitioning to  
+renewables. We lend our voice and stand with other companies and 
+NGOs to break down local, regional, and national policy barriers to 
+achieve thriving clean energy markets with, for example, enhanced  
+grid resiliency and greater energy innovation. In fiscal year 2022, we 
+allocated 2019 Green Bond proceeds to policy advocacy efforts in 
+Japan, Vietnam, and South Korea.
+• Expanding renewable energy opportunities. We’re helping our  
+suppliers find renewable energy solutions and make the right  
+investments to address their specific needs. When we face barriers  
+in accessing cost-effective clean energy, we innovate. That’s why  
+we developed the China Clean Energy Fund, for example. The fund 
+enables Apple and our suppliers to invest in clean energy in China. As 
+of March 2022, the fund has invested in 465 megawatts of renewable 
+electricity projects. In fiscal year 2022, we invested additional green 
+bond proceeds into the fund.
+10
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateNature-based solutions
+To reach carbon neutrality for our products by 2030, we’re investing in 
+projects that create additional carbon removal through Apple’s Restore 
+Fund. In partnership with Conservation International and Goldman 
+Sachs, we’ve invested with three high-quality forestry managers in Brazil and Paraguay to restore 150,000 acres of sustainably certified working 
+forests and protect around 100,000 acres of native forests, grasslands, 
+and wetlands. Together, these initial forestry projects are forecast to remove 1 million metric tons of carbon dioxide from the atmosphere in 
+2025. We aim for these projects to become certified under the Verified 
+Carbon Standard (VCS) and the Climate, Community & Biodiversity Standards (CCBS).
+Manufacturing efficiency
+Reducing material waste and increasing energy efficiency in our  
+product manufacturing processes in turn reduces the carbon intensity 
+of our assembled products. This is an essential element to reducing 
+Apple’s overall carbon footprint. In fiscal year 2022, we continued to allocate green bond funds to a number of projects researching improved 
+efficiency in manufacturing processes. These projects are aimed at 
+creating less waste in the processing of different materials, reducing machining time and the associated energy used, more efficiently 
+transforming material into the shapes we need, and maximizing recovery 
+and reprocessing of manufacturing scrap. Once successfully developed, we plan to deploy these improved processes at scale at our supplier 
+facilities.
+Carbon footprint modeling improvements
+As our low-carbon manufacturing processes evolve, so do our 
+techniques for measuring Apple’s footprint. We again allocated green 
+bond funds in fiscal year 2022 to several projects intended to improve 
+the fidelity, scalability, speed, and breadth of Apple’s carbon models, and to improve the carbon modeling of Apple’s use of new recycled 
+content in products.
+Suppliers in China have joined Apple in investing in clean energy projects — like this one in Sichuan province — as 
+part of their commitment to transitioning to 100 percent renewable electricity for Apple production.
+Report Notes
+1.W e plan to reach net zero beginning with our fiscal year 2030 carbon footprint.
+2.Not es on Projected Environmental Benefits:
+• W e estimated future environmental benefits of projects that are not yet fully operational,
+ inc luding carbon emissions avoided, energy capacity, and annual renewable energy
+generation. To estimate carbon emissions avoided for renewable energy projects and
+RECs, we use regional grid emissions factors as well as projections for annual electricitygeneration or the MWh associated with REC. To estimate carbon emissions avoided fromthe Restore Fund, we conservatively estimated the total carbon sequestration potentialover the lifetime of the project. There is inherent uncertainty in all of these projections.Projects dedicated to research and development or capacity building are not quantified,as their carbon benefit — while often sizable — is indirect and may take place acrossApple’s global supply chain.
+•  Pr oceeds from Apple’s 2019 Green Bond were allocated to new and ongoing projects.
+For ongoing, multiyear projects, we included the spend that occurred during the fiscalyear allocation period and the estimated environmental benefits of the entire completedproject.
+3. The Gr een Bond allocations above do not capture financial returns from project
+investments. As a result, the information provided does not capture a full view of
+the net abatement costs to Apple.
+4. R enewable energy spend includes equity investments, long-term contracts like power
+purchase agreements (PPAs) and virtual power purchase agreements (vPPAs), as well
+as some renewable energy credits. For PPAs/vPPAs, the allocated amount is calculated
+as the net present value of future cash flows based on estimated annual production
+in megawatts and power price over the contract term. Because of this allocation
+methodology, the financial allocations to the 2019 Green Bond use of proceeds may
+not proportionally match the expected carbon contributions that we expect from each
+category in Apple’s 2030 carbon neutrality roadmap.
+5.See not e 2.
+6.  Star ting with fiscal year 2022, we’re calculating greenhouse gas emissions mitigated or
+offset using the projected lifetime benefits of eligible projects from cumulative allocationsfor the period from fiscal year 2020 to fiscal year 2022. Project lifetimes range from
+1 to 25 years.
+7.Based on our FY 21 carbon footprint.
+8. See our announcement here .
+9. ELYSIS was used in the production of the 16-inch MacBook Pro that was released in
+2019. The 16-inch MacBook Pro released in 2021 now features a 100 percent recycled
+aluminum enclosure.
+10.  W e have been at 100 percent renewable energy for corporate facilities since
+January 1, 2018.
+This Green Bond Report (the “Report”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Such forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Report regarding the potential future impact of allocated projects. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “projected,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and Apple’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of Apple’s Form 10-K under the heading “Risk Factors” as filed with the Securities and Exchange Commission. Apple assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+This Report has been prepared for information purposes only. Apple does not make any 
+warranties or representations as to the completeness or reliability of the information, opinions or conclusions expressed herein. This Report is not intended to provide the basis for the evaluation of any securities issued by Apple. This Report should not be construed and does  
+not constitute an invitation, recommendation or offer to subscribe for or purchase any of Apple’s securities. Under no circumstances shall Apple or its affiliates be liable for any loss, damage, liability or expense incurred or suffered which is claimed to have resulted from use  
+of this Report.
+© 2023 Apple Inc. All rights reserved. Apple, the Apple logo, iPhone, and MacBook Pro are 
+trademarks of Apple Inc., registered in the U.S. and other countries. March 2023
+12
+Annual Green Bond Impact Report  |  Fiscal Year 2022 UpdateAppendix
+Sustainalytics Review 
+Ernst & Young LLP Use of Proceeds Examination
+© Sustainalytics 202 2   
+Apple Inc.  
+Type of Engagement:  Annual Review  
+Date:  February  28, 2023  
+Engagement Team:  
+Taylor Whitfield , taylor.whitfield@sustainalytics.com , (+1) 416 861 0403  
+Debjeet Mukherjee , debjeet.mukherjee@sustainalytics.com  
+ 
+Introduction  
+In November 2019,  Apple Inc. (“Apple”)  issued green bonds aimed at financing projects that have positive 
+environmental impacts, with the goal of reducing the carbon footprint associated  with Apple’s own operations 
+and more broadly across its entire value chain.  Apple  engaged Sustainalytics to review the projects to which 
+green  bond  proceeds were allocated during Apple’s fiscal year 202 2 and provide an assessment as to whether 
+the proje cts met the use of proceeds criteria and the reporting commitments outlined in the Apple Green Bond 
+Framework  (the “Framework”) .1 Sustainalytics provided a Second -Party Opinion2 on the Framework in 
+November 2019 , as well as  annual review s for Apple’s allocations for fiscal year s 20203  and 2021 .4   
+Evaluation Criteria  
+Sustainalytics evaluated the projects to which  green bond proceeds were allocated in Apple’s fiscal year  2022  
+(between 26 September 2021,  and 24 September  2022 ) based on whether the selected projects:  
+1. Met the use of proceeds and Eligibility Criteria outlined in the Framework ; and  
+2. Reported on a Key Performance Indicator (KPI) for each use of proceeds criteria  outlined in the 
+Framework . 
+ 
+Table 1 lists the Use of Proceeds , Eligibility Criteria, and associated KPIs while Table 2 lists the detailed 
+findings . 
+  
+ 
+1 For  Apple 's Green Bond Framework , see the section “Use of Proceeds” in the Prospectus Supplement dated November 7, 2019 filed with the U.S. 
+Securities and Exchange Commission and available at 
+https://www.sec.gov/Archives/edgar/data/320193/000119312519288412/d804226d424b2.htm#supptoc804226_8 .   
+2 The Apple Green Bond Framework Second Party Opinion is available on Sustainalytics’ website a t: https://www.sustainalyti cs.com/corporate -
+solutions/sustainable -finance -and-lending/published -projects/project/apple -inc/apple -green -bond -framework -second -party -opinion -2019/apple -green -
+bond -second -party -opinion -pdf  
+3 Sustainalytics’ annual revi ew of Apple’s Framework for the 2020 fiscal year is available on Apple’s website at:  
+https://s2.q4cdn.com/470004039/files/doc_downloads/additional_reports/Apple_GreenBond_Report_2020.pdf   
+4 Sustainalytics’ annual review of Apple’s Framework for the 2021 fiscal year is available on Apple’s website at:  
+https://s2.q4cdn.com/470004039/files/doc_downloads/additional_reports/2022/Apple_GreenBond_Report.pdf   
+
+Annual Review   
+Apple Inc.   
+  
+ 
+  
+ 2 
+Table 1: Use of Proceeds , Eligibility Criteria , and Associated KPIs  
+ 
+ 
+ 
+ 
+ 
+Issu ing Entity’s Responsibility  
+Apple  is responsible for providing accurate information and documentation relating to the details of the  
+projects  to which green bonds  proceeds  have been allocated , including description of projects, amounts 
+allocated , and project impact.  
+Independence and Quality C ontrol  
+Sustainalytics, a leading provider of ESG and corporate governance research and ratings  to investors , 
+conducted the verification of Apple ’s green bond Use of Proceeds . The work undertaken as part of this 
+engagement included collection of documenta tion from Apple  employees and review of documentation to 
+confirm  the conformance with the Framework . 
+Sustainalytics relied on the information and the facts presented by Apple  with respect to projects  to which 
+green bond proceeds were allocated for Apple’s 2022 fiscal year . Sustainalytics is not responsible nor shall it 
+ 
+5 Starting fiscal year 2022, Apple  changed its  methodology for quantifying the carbon benefits of eligible projects to a project lifetime calculation . As a 
+result, Apple has revised its  KPIs and , going forward,  will be  report ing on two KPIs for allocations:  1) Lifetime carbon benefit  of projects  (tCO 2e), which 
+will also capture  the previously reported average annual GHG emissions avoided  KPI, and 2) Renewable energy capacity  (MW).  Apple believes that this 
+change enables it to better reflect total benefits, while accounting for varying project lifetimes.  
+6 Lifetime greenhouse gas emissions mitigated or offset includes the combined impact of all projects over the course of their l ifetimes which range from 
+1 to 25 years.  Use of 
+Proceeds  Eligibility Criteria  Key Performance 
+Indicators  (KPIs)5 
+Low Carbon 
+Design  • Expenditures related to the development or 
+procurement of less carbon -intensive products 
+and materials (compared to an established 
+“pre-activity” baseline), such as improving 
+product power usage efficiency, using 
+materials produced from manufacturing 
+processes requiring lesser greenhouse gas 
+emissions, or sourcing materials with recycled 
+or renewable content . 
+• Lifetime carbon 
+benefit6 (tCO 2e) 
+• Renewable energy 
+capacity (MW)  Energy 
+Efficiency  • Expenditures related to the development of 
+energy efficiency projects intended to reduce 
+emissions in new or existing corporate and 
+supply chain facilities, such as sensors and 
+controls, energy management systems, and 
+facility design, commission ing, and retrofits . 
+Emissions 
+Abatement  • Expenditures related to the development of 
+projects intended to reduce direct and process 
+emissions (compared to an established “pre -
+activity” baseline) from Apple’s and its 
+supplier’s operations, such as abating d irect 
+emissions from manufacturing or sourcing 
+non-fossil low carbon fuels . 
+Renewable 
+Energy  • Expenditures related to the development of 
+renewable energy projects intended to reduce 
+emissions in Apple’s corporate facilities and 
+supply chain, such as solar and wind projects, 
+or associated energy storage solutions . 
+Carbon 
+Removal  • Expenditures related to the development of 
+projects that sequester carbon, such as habitat 
+restoration and conservatio n. 
+Annual Review   
+Apple Inc.   
+  
+ 
+  
+ 3 
+be held liable if any of  the opinions, findings , or conclusions it has set forth herein are not correct due to 
+incorrect or incomplete  data provided by Apple . 
+Sustainalytics made all efforts to ensure the highest quality and rigor during its assessment process and 
+enlisted its Sustainability Bonds Review Committee to provide oversight of the review.  
+Conclusion  
+Based on the limited assurance procedures conducted,7 nothing has come to Sustainalytics’ attention that 
+causes us to believe that, in all material respects, the reviewed projects , to which green bond proceeds were 
+allocated for Apple’s 202 2 fiscal year , are not in  conform ance  with the Use of Proceeds and reporting criteria 
+outlined in the Framework . Apple  has disclosed to Sustainalytics that  32% of the net green bond proceeds 
+have been allocated as of the close of Apple’s 20 22 fiscal year.  
+Detailed Findings  
+Table 2: Detailed Findings  
+Eligibility 
+Criteria  Procedure Performed  Factual Findings  Error or 
+Exceptions 
+Identified  
+Use of 
+Proceeds 
+Criteria  Verification of the projects to which green 
+bond proceeds were allocated in FY202 2 to 
+determine if projects aligned with the Use 
+of Proceeds criteria outlined in the 
+Framework and above in Table 1.  All nine  projects  
+financed  in FY2022 
+reviewed compl ied with 
+the Use of Proceeds 
+criteria.  None  
+Reporting 
+Criteria  Verification of the projects to which green 
+bond proceeds were allocated in FY2022 to 
+determine if the impact of the projects was 
+reported in line with the KPI s outlined in the 
+Framework and above in Table 1.  
+For a list of KPIs Apple report ed, please 
+refer to Appendix 2.  All nine  projects 
+financed in FY2022 
+reviewed  reported a KPI 
+per the Use of Proceeds 
+criteria.  None  
+  
+ 
+7 Sustainalytics limited  assurance process includes reviewing the documentation relating to the details of the funded projects, including description of 
+projects, estimated and realized costs of projects, and project impact, as provided by the Issuer , which is responsible for pro viding accurate information. 
+Sustainalytics has not conducted on -site visits to projects.  
+Annual Review   
+Apple Inc.   
+  
+ 
+  
+ 4 
+Append ices 
+Apple has allocated  USD 156.56 million  to eligible projects  in its 2022 fiscal year ( 26 September 2021 to 24 
+September  2022) , and a total of USD 706.54 million  to 59 projects since  Apple’s 2020 fiscal year , as outlined 
+in the table below:  
+Appendix 1: Allocation Report ing 
+Use of Proceeds 
+Category8 FY2022 Allocation  
+(USD million)  Cumulative Allocation  
+(USD million)  
+Low Carbon Design  29.10  57.18  
+Energy Efficiency  1.24  4.91  
+Emissions 
+Abatement  2.08  7.25  
+Renewable Energy  85.24  589.69  
+Carbon Removal  38.90  47.51  
+Total Allocation  156.56  706.54  
+Net proceeds raised (USD million)  2,192 .29 
+Percentage allocation  32%  
+ Appendix 2: Impact Reporting  
+KPI9 Output  figures  
+Lifetime carbon benefit10,11 (tCO 2e) 13,585,915  
+Renewable energy capacity12 (MW)  707 
+In addition to the above quantified benefits, Apple estimates that a number of projects will have indirect 
+carbon benefits across its supply chain from investments in R&D, supplier capacity building, and renewable 
+energy policy advocacy.  
+  
+ 
+8 Apple has shared with Sustainalytics the rationale  for ensuring alignment of the financed projects with the criteria defined in the Framework.  
+9 Starting fiscal year 2022, Apple  changed its  methodology in quantifying benefits of eligible projects to a project lifetime calculation . As a result, Apple 
+has r evised its  KPIs and , going forward,  will be  report ing on two KPIs for allocations: 1) Lifetime carbon benefit  of the projects  (tCO 2e), which will also 
+capture  the previously -reported average annual GHG emissions avoided , and 2) Renewable energy capacity  (MW). Apple  has communicated that  this 
+change enables it to better reflect total benefits, while accounting for varying project lifetimes . 
+10 Projected lifetime benefits from cumulative allocations. Project lifetimes range from 1 t o 25 years.  As of the end of FY2022,  none of the financed 
+projects are beyond 25 years.  
+11 GHG  emissions mitigated or offset . 
+12 Cumulative over the life of the green bond . 
+Annual Review   
+Apple Inc.   
+  
+ 
+  
+ 5 
+Disclaimer  
+Copy right ©202 3 Sustainalytics. All rights reserved.  
+The information, methodologies  and opinions  contained or reflected herein are proprietary of Sustainalytics 
+and/or its third party suppliers  (Third Party Data), and  may  be made available to third parties onl y in the form 
+and format disclosed by Sustainalytics, or  provided that appropriate citation and acknowledgement is 
+ensured. They  are provided for informational purposes only and (1) do not constitute an endorsement of any 
+product or project;  (2) do not con stitute investment advice, financial advice  or a prospectus; (3) cannot be 
+interpreted as an offer or indication to buy or sell securities, to select a project or make any kind of business 
+transactions; (4) do not represent an assessment of the issuer’s ec onomic performance, financial obligations 
+nor of its creditworthiness;  and/or  (5) have not and cannot be incorporated into any offering disclosure.  
+These are  based  on information made available by the issuer and therefore are not warranted as to their 
+merc hantability, completeness, accuracy, up -to-dateness or fitness for a particular purpose. The information 
+and data are provided “as is” and reflect Sustainalytics ’ opinion at the date of their elaboration and publication. 
+Sustainalytics accepts no liability  for damage arising from the use of the information, data or opinions 
+contained herein, in any manner whatsoever, except where explicitly required by law. Any reference to third 
+party names or Third Party Data is for appropriate acknowledgement of their ow nership and does not 
+constitute a sponsorship or endorsement by such owner. A list of our third -party data providers and their 
+respective terms of use is available on our website. For more information, 
+visit http://www.sustainalytics.com/legal -disclaimers . 
+The issuer is fully responsible for certifying and ensuring the compliance with its commitments, for their 
+implementation and monitoring.  
+In case of discrepancies between the English language and translated versions, the English language version 
+shall prevail.   
+Annual Review  
+Apple Inc.  
+ 6 
+About Sustainalytics, a Morningstar Company  
+Sustainalytics, a Morningstar Company, is a leading ESG research, ratings and data firm  that supports 
+investors around the world with the development and implementation of responsible investment strategies. 
+For more than 30 years, the firm has been at the forefront of developing high -quality, innovative solutions to 
+meet the evolving needs o f global investors. Today, Sustainalytics works with hundreds of the world’s leading 
+asset managers and pension funds who incorporate ESG and corporate governance information and 
+assessments into their investment processes. Sustainalytics also works with h undreds of companies and 
+their financial intermediaries to help them consider sustainability in policies, practices and capital projects. 
+With 17 offices globally, Sustainalytics has more than 1500 staff members, including more than 500 analysts 
+with varie d multidisciplinary expertise across more than 40 industry groups.  
+For more information, visit www.sustainalytics.com  
+Or contact us contact@sustainalytics.com  
+
+Report of Independent Accountants
+To the Management of Apple Inc.:
+We have examined management’s assertion, in Exhibit A, that $706.5 million of net proceeds from the 0.000%
+notes due 2025 and 0.500% notes due 2031 issued by Apple Inc. (“Apple”) were allocated, during the period
+from September 29, 2019 to September 24, 2022 (the “Reporting Period”), to qualifying Eligible Projects that
+meet one or more of the Eligibility Criteria (each as defined in the “Use of Proceeds” section of the Prospectus
+Supplement dated November 7, 2019, to the Prospectus dated November 5, 2018, filed by Apple on
+November 8, 2019, with the Securities and Exchange Commission pursuant to Rule 424(b)(2) under the
+Securities Act of 1933, as amended). Apple’s management is responsible for the assertion, having a reasonable
+basis for its assertion, selection of the Eligibility Criteria and the allocation, during the Reporting Period, of
+amounts to Eligible Projects that meet one or more of the Eligibility Criteria. Our responsibility is to express
+an opinion on the assertion based on our examination.
+Our examination was conducted in accordance with attestation standards established by the American Institute
+of Certified Public Accountants (“AICPA”). Those standards require that we plan and perform the examination
+to obtain reasonable assurance about whether management’s assertion is fairly stated, in all material respects.
+An examination involves performing procedures to obtain evidence about management’s assertion. The nature,
+timing, and extent of the procedures selected depend on our judgment, including an assessment of the risks of
+material misstatement of management’s assertion, whether due to fraud or error. We believe that the evidence
+we obtained is sufficient and appropriate to provide a reasonable basis for our opinion.
+We are required to be independent of Apple and to meet our other ethical responsibilities, as applicable for
+examination engagements set forth in the Preface: Applicable to All Members and Part 1 – Members in Public
+Practice of the Code of Professional Conduct established by the AICPA.
+Our examination was not conducted for the purpose of evaluating (i) whether funds in excess of the net proceeds
+were allocated to Eligible Projects during the Reporting Period, (ii) the amount allocated to each category of
+Eligible Projects during the Reporting Period, (iii) that any payments made pursuant to any power purchase
+agreements or virtual power purchase agreements to which amounts were allocated during the Reporting Period
+were in accordance with such agreements, (iv) the environmental benefits of the Eligible Projects,
+(v) conformance of any Eligible Projects with any third-party published principles, standards or frameworks,
+such as the Green Bond Principles, dated June 2018, published by the International Capital Market Association
+or (vi) any information included in Apple’s Annual Green Bond Impact Report, Fiscal Year 2022 Update, other
+than management’s assertion. Accordingly, we do not express an opinion or any other form of assurance other
+than on management’s assertion included in Exhibit A.
+In our opinion, management’s assertion, included in Exhibit A, that $706.5 million in net proceeds from the
+0.000% notes due 2025 and 0.500% notes due 2031 issued by Apple were allocated during the Reporting Period
+to qualifying Eligible Projects that met one or more of the Eligibility Criteria is fairly stated, in all material
+respects.
+
+February 24, 2023 
+San Jose, California
+A member firm of Ernst & Young Global Limited  Ernst & Young LLP  
+303 Almaden Boulevard  
+San Jose, CA  95110  Tel: +1 408 947 5500  
+Fax: +1 408 947 5717  
+ey.com  
+  
+Apple One Apple Park Way Cupertino, CA 95014 T 408 996-1010 F 408 996-0275 www.apple.com Exhibit A  Apple Inc. Management’s Assertion We assert that $706.5 million of net proceeds were allocated from our issuance of the 0.000% notes due 2025 and 0.500% notes due 2031, during the period from September 29, 2019 to September 24, 2022 (the “Reporting Period”), to qualifying Eligible Projects that meet one or more of the Eligibility Criteria (each as defined in the “Use of Proceeds” section of the Prospectus Supplement dated November 7, 2019, to the Prospectus dated November 5, 2018, filed by Apple Inc. (“Apple”) on November 8, 2019, with the Securities and Exchange Commission pursuant to Rule 424(b)(2) under the Securities Act of 1933, as amended). The Eligibility Criteria are also set forth in Table 1 below. Apple’s management is responsible for this assertion, including selection of the Eligibility Criteria and the allocation, during the Reporting Period, of amounts to Eligible Projects that meet one or more of the Eligibility Criteria. We worked with an outside party, a leading provider of second-party opinions for green, social, sustainability and KPI-linked bonds and loans, to provide a second party opinion on the Apple Green Bond framework at the time of issuance. We have engaged them annually thereafter to review the projects to which net proceeds were allocated and provide an assessment as to whether the projects met the Use of Proceeds criteria and the reporting commitments outlined in our Green Bond framework.  Table 1: Eligibility Criteria “Low carbon” design and engineering expenditures related to the development or procurement of less carbon-intensive products and materials (compared to an established “pre-activity” baseline), such as improving product power usage efficiency, using materials produced from manufacturing processes requiring lesser greenhouse gas emissions, or sourcing materials with recycled or renewable content,  Energy efficiency expenditures related to the development of energy efficiency projects intended to reduce emissions in new or existing corporate and supply chain facilities, such as sensors and controls, energy management systems, and facility design, commissioning, and retrofits,  Renewable energy building on our successful transition to 100% renewable electricity at our facilities, expenditures related to the development of renewable energy projects intended to reduce emissions in our corporate facilities and supply chain, such as solar and wind projects, or associated energy storage solutions, including work to advance market structures, regulations and policy that support renewable energy through coalition and capacity building,  Carbon mitigation expenditures related to the development of projects intended to reduce direct and process emissions (compared to an established “pre-activity” baseline) from Apple’s and our supplier’s operations, such as abating 
+ 
+ direct emissions from manufacturing or sourcing non-fossil low carbon fuels, and  Carbon sequestration expenditures related to the development of projects that sequester carbon, such as habitat restoration and conservation.    Note 1: Apple Inc. or its subsidiaries directly invest in Eligible Projects in its own operations or its suppliers’ operations. Note 2: Proceeds are considered allocated upon the date of commercial operations for power purchase agreements or virtual power purchase agreements. The allocated amount is calculated as the net present value of future cash flows based on estimated annual production in megawatts and power price over the contract term. The determination of the amount to be allocated to the power purchase agreements and virtual power purchase agreements involves estimates. Actual results could differ from those estimates and those differences may be material. Note 3: The net proceeds allocated to carbon sequestration projects include the purchase of carbon offsets.  
