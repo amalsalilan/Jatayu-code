@@ -2,7 +2,7 @@ import csv
 import yfinance as yf
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LinearRegression
+import sklearn.linear_model
 import os
 
 # Read the CSV file with a column of company symbols
@@ -70,7 +70,7 @@ for company_symbol in company_symbols:
     debt_to_equity = stock_info.get("debtToEquity", "N/A")
 
     # Assign labels based on threshold values
-    std_dev_label = max(std_dev_thresholds, key=lambda x: std_dev_thresholds[x] <= std_dev)
+    std_dev_label = max(std_dev_thresholds, key=lambda x: std_dev_thresholds[x] <= std_dev_label)
     beta_label = max(beta_thresholds, key=lambda x: beta_thresholds[x] <= beta)
     var_label = max(var_thresholds, key=lambda x: var_thresholds[x] <= var)
 
@@ -82,12 +82,12 @@ for company_symbol in company_symbols:
         if not file_exists:
             writer.writerow(["Company Name", "Stock Symbol", "Standard Deviation", "Beta", "Value at Risk", "P/E Ratio", "Debt-to-Equity Ratio",
                          "Standard Deviation Label", "Beta Label", "Value at Risk Label"])
-        writer.writerow([stock_info["longName"], stock_symbol, std_dev, beta, var, pe_ratio, debt_to_equity, std_dev_label, beta_label, var_label])
+        writer.writerow([stock_info["longName"], stock_symbol, std_dev_label, beta, var, pe_ratio, debt_to_equity, std_dev_label, beta_label, var_label])
 
     # Print the risk forecast analysis
     print("Risk Forecast for", stock_info["longName"])
     print("Stock Symbol:", stock_symbol)
-    print("Standard Deviation:", std_dev)
+    print("Standard Deviation:", std_dev_label)
     print("Beta:", beta)
     print("Value at Risk (VaR) at", confidence_level, "confidence level:", var)
     print("P/E Ratio:", pe_ratio)
