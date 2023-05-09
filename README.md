@@ -12,4 +12,4 @@ This folder contains all these following files:
 `yfinance.csv` - This file contains all the scraped information into it, except the pdf and news. 
 `Apple` - This forlder is an example of the scraped results
 
-'Riskforcast' - This Python programme scrapes the data required for analysing a company's risk forecast.This code requires the stock symbols as input.
+`Riskforcast` - This Python programme scrapes the data required for analysing a company's risk forecast.This code requires the stock symbols as input.
