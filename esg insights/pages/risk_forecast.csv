@@ -1,0 +1,70 @@
+Company Name,Symbols,Standard Deviation,Beta,Value at Risk,P/E Ratio,Debt-to-Equity Ratio,Standard Deviation Label,Beta Label,Value at Risk Label
+"Agilent Technologies, Inc.",A,0.018953681,0.997166102,-0.030262122,30.090296,55.803,low,low,medium
+American Airlines Group Inc.,AAL,0.018953681,1.380542339,-0.055045865,5.0436363,N/A,low,low,high
+"Advance Auto Parts, Inc.",AAP,0.018953681,0.888409133,-0.030330629,14.966142,151.819,low,low,medium
+Apple Inc.,AAPL,0.018953681,1.227582522,-0.032436999,29.418644,N/A,low,low,medium
+AbbVie Inc.,ABBV,0.018953681,0.677610567,-0.025594689,34.83059,373.593,low,low,medium
+AmerisourceBergen Corporation,ABC,0.018953681,-0.086914922,-0.029529575,21.592545,N/A,low,low,medium
+Abbott Laboratories,ABT,0.018953681,0.861201755,-0.025959252,33.81763,48.627,low,low,medium
+Arch Capital Group Ltd.,ACGL,0.018953681,1.000972533,-0.028636525,14.582845,19.473,low,low,medium
+Accenture plc,ACN,0.018953681,1.094291088,-0.030141506,24.438822,13.119,low,low,medium
+Adobe Inc.,ADBE,0.018953681,1.275826224,-0.037329691,37.705627,29.044,low,low,medium
+"Analog Devices, Inc.",ADI,0.018953681,1.249381699,-0.032964506,27.786364,17.925,low,low,medium
+Archer-Daniels-Midland Company,ADM,0.018953681,0.808519994,-0.026218165,9.530741,45.839,low,low,medium
+"Automatic Data Processing, Inc.",ADP,0.018953681,1.041768568,-0.026026227,27.839794,89.899,low,low,medium
+"Autodesk, Inc.",ADSK,0.018953681,1.367371896,-0.039181881,51.031414,232.838,low,low,medium
+Ameren Corporation,AEE,0.018953681,0.638928017,-0.02257163,21.591885,N/A,low,low,medium
+"American Electric Power Company, Inc.",AEP,0.018953681,0.533680652,-0.020735306,20.606266,168.415,low,low,medium
+The AES Corporation,AES,0.018953681,1.028450493,-0.032103352,N/A,N/A,low,low,medium
+Aflac Incorporated,AFL,0.018953681,0.970953666,-0.026121811,9.753246,37.505,low,low,medium
+"American International Group, Inc.",AIG,0.018953681,1.217442064,-0.036216345,4.134512,N/A,low,low,medium
+"Assurant, Inc.",AIZ,0.018953681,0.837334249,-0.026453312,28.589521,N/A,low,low,medium
+Arthur J. Gallagher & Co.,AJG,0.018953681,0.866711255,-0.023860834,39.66976,72.713,low,low,medium
+"Akamai Technologies, Inc.",AKAM,0.018953681,0.754901449,-0.028448393,24.704401,72.809,low,low,medium
+Albemarle Corporation,ALB,0.018953681,1.258839643,-0.045812408,7.7456894,N/A,low,low,medium
+The Allstate Corporation,ALL,0.018953681,0.837506823,-0.024129637,N/A,N/A,low,low,medium
+Allegion plc,ALLE,0.018953681,1.009896729,-0.030290008,19.475674,216.322,low,low,medium
+"Applied Materials, Inc.",AMAT,0.018953681,1.599771606,-0.047304763,15.55764,45.589,low,low,medium
+"AMETEK, Inc.",AME,0.018953681,1.066947252,-0.024927319,27.996141,N/A,low,low,medium
+Amgen Inc.,AMGN,0.018953681,0.692702414,-0.024268723,16.079538,1151.739,low,low,medium
+"Ameriprise Financial, Inc.",AMP,0.018953681,1.549632892,-0.035832822,15.173527,90.758,low,low,medium
+American Tower Corporation,AMT,0.018953681,0.805929748,-0.027594141,66.02349,382.921,low,low,medium
+"Amazon.com, Inc.",AMZN,0.018953681,1.09839149,-0.035911107,245.70929,115.545,low,low,medium
+"Arista Networks, Inc.",ANET,0.018953681,1.209830324,-0.039737557,27.651302,1.038,low,low,medium
+"ANSYS, Inc.",ANSS,0.018953681,1.268414418,-0.035644522,51.56923,N/A,low,low,medium
+A. O. Smith Corporation,AOS,0.018953681,0.841212669,-0.031872479,44.26415,20.964,low,low,medium
+APA Corporation,APA,0.018953681,1.570393067,-0.056714893,5.2150707,N/A,low,low,high
+"Air Products and Chemicals, Inc.",APD,0.018953681,0.931480189,-0.025850361,29.318184,60.518,low,low,medium
+Amphenol Corporation,APH,0.018953681,1.068495782,-0.027872236,24.58117,61.787,low,low,medium
+Aptiv PLC,APTV,0.018953681,1.433786318,-0.039896426,52.189945,N/A,low,low,medium
+"Alexandria Real Estate Equities, Inc.",ARE,0.018953681,0.873645817,-0.025547616,26.995634,52.641,low,low,medium
+Atmos Energy Corporation,ATO,0.018953681,0.623675443,-0.021703764,20.409721,N/A,low,low,medium
+"Activision Blizzard, Inc.",ATVI,0.018953681,0.659582581,-0.033382595,32.067513,17.952,low,low,medium
+"AvalonBay Communities, Inc.",AVB,0.018953681,0.827792925,-0.025889943,24.32341,72.206,low,low,medium
+Broadcom Inc.,AVGO,0.018953681,1.270544349,-0.035812883,21.230457,169.009,low,low,medium
+Avery Dennison Corporation,AVY,0.018953681,1.017105835,-0.027408115,20.70758,174.218,low,low,medium
+"American Water Works Company, Inc.",AWK,0.018953681,0.693133339,-0.025099688,32.550438,118.278,low,low,medium
+American Express Company,AXP,0.018953681,1.285452723,-0.033199997,16.017838,165.716,low,low,medium
+"AutoZone, Inc.",AZO,0.018953681,0.719730534,-0.024169983,22.074797,N/A,low,low,medium
+The Boeing Company,BA,0.018953681,1.475272885,-0.044617633,N/A,N/A,low,low,medium
+Bank of America Corporation,BAC,0.018953681,1.21162236,-0.033505183,8.3213215,N/A,low,low,medium
+Ball Corporation,BALL,0.018953681,0.79235975,-0.027180239,23.162054,N/A,low,low,medium
+Baxter International Inc.,BAX,0.018953681,0.708550215,-0.027133361,N/A,284.279,low,low,medium
+"Bath & Body Works, Inc.",BBWI,0.018953681,1.404371717,-0.053445424,10.092814,N/A,low,low,high
+"Best Buy Co., Inc.",BBY,0.018953681,1.153103957,-0.041474073,11.696343,142.326,low,low,medium
+"Becton, Dickinson and Company",BDX,0.018953681,0.610203516,-0.02415297,52.40909,N/A,low,low,medium
+"Franklin Resources, Inc.",BEN,0.018953681,1.161574851,-0.03624735,15.112426,29.002,low,low,medium
+Bunge Limited,BG,0.018953681,0.763956507,-0.032051295,8.632031,N/A,low,low,medium
+Biogen Inc.,BIIB,0.018953681,0.849986764,-0.031275872,14.4704275,47.941,low,low,medium
+"Bio-Rad Laboratories, Inc.",BIO,0.018953681,0.873464524,-0.031938738,N/A,N/A,low,low,medium
+The Bank of New York Mellon Corporation,BK,0.018953681,1.006769184,-0.030694653,13.028481,N/A,low,low,medium
+Booking Holdings Inc.,BKNG,0.018953681,1.124741908,-0.03606934,34.603367,N/A,low,low,medium
+"BlackRock, Inc.",BLK,0.018953681,1.228530936,-0.030115312,19.879087,21.887,low,low,medium
+Bristol-Myers Squibb Company,BMY,0.018953681,0.551088213,-0.023023806,19.865889,123.518,low,low,medium
+"Broadridge Financial Solutions, Inc.",BR,0.018953681,0.874868536,-0.02623667,32.80472,N/A,low,low,medium
+"Brown & Brown, Inc.",BRO,0.018953681,0.884088271,-0.023816616,26.876541,85.934,low,low,medium
+Boston Scientific Corporation,BSX,0.018953681,0.973085965,-0.029452343,88.862076,53.167,low,low,medium
+BorgWarner Inc.,BWA,0.018953681,1.06627201,-0.037563259,10.933824,N/A,low,low,medium
+"Boston Properties, Inc.",BXP,0.018953681,0.968722284,-0.032917783,10.406815,182.561,low,low,medium
+Citigroup Inc.,C,0.018953681,1.304365003,-0.033514134,6.362637,N/A,low,low,medium
+"Conagra Brands, Inc.",CAG,0.018953681,0.414971809,-0.026628343,22.646708,106.211,low,low,medium
