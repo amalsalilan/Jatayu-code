@@ -1,0 +1,438 @@
+,Name,Symbols,Total ESG Score,Environment Score,Social Score,Governance Score,Controversy Score,Controversy Assessment,Sector,Description
+0,"Agilent Technologies, Inc.",A,15,0.3,8.6,6.3,1,Little Controversy,Healthcare,"Agilent Technologies, Inc. is an American analytical instrumentation development and manufacturing company that offers its products and services to markets worldwide. Its global headquarters is located in Santa Clara, California."
+1,American Airlines Group Inc.,AAL,29,11.5,12.3,5.3,2,Moderate Controversy,Industrials,"American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas."
+2,"Advance Auto Parts, Inc. ",AAP,12,0.1,8.3,3.1,2,Moderate Controversy,Consumer Cyclical,"Advance Auto Parts, Inc. (Advance) is an American automotive aftermarket parts provider. Headquartered in Raleigh, North Carolina, it serves both professional installer and do-it-yourself (DIY) customers."
+3,Apple Inc.,AAPL,17,0.6,6.9,9.2,3,Relatively High Controversy,Technology,"Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue (totalling $274.5 billion in 2020) and, since January 2021, the world's most valuable company. As of 2021, Apple is the world's fourth-largest PC vendor by unit sales, and fourth-largest smartphone manufacturer. It is one of the Big Five American information technology companies, along with Amazon, Google, Microsoft, and Facebook."
+4,AbbVie Inc.,ABBV,28,1.1,16.8,9.9,3,Relatively High Controversy,Healthcare,AbbVie is an American publicly traded biopharmaceutical company founded in 2013. It originated as a spin-off of Abbott Laboratories.
+5,AmerisourceBergen Corporation (ABC),ABC,12,1.3,5.6,5.2,3,Relatively High Controversy,Healthcare,
+6,Abbott Laboratories,ABT,25,3.0,13.6,8.4,3,Relatively High Controversy,Healthcare,"Abbott Laboratories is an American multinational medical devices and health care company with headquarters in Abbott Park, Illinois, United States. The company was founded by Chicago physician Wallace Calvin Abbott in 1888 to formulate known drugs; today, it sells medical devices, diagnostics, branded generic medicines and nutritional products. It split off its research-based pharmaceuticals business into AbbVie in 2013."
+7,Arch Capital Group Ltd.,ACGL,21,1.5,7.3,12.0,2,Moderate Controversy,Financial Services,"Arch Capital Group Ltd., offers insurance, reinsurance and mortgage products worldwide. The company is headquartered in Pembroke, Bermuda."
+8,Accenture plc,ACN,10,0.3,4.6,4.8,2,Moderate Controversy,Technology,"Accenture plc is an Irish-domiciled multinational company that provides consulting and processing services. It has been incorporated in Dublin, Ireland since 2009."
+9,Adobe Inc.,ADBE,12,1.9,5.9,4.6,1,Little Controversy,Technology,"Adobe Inc. is an American multinational computer software company. Incorporated in Delaware and headquartered in San Jose, California, it has historically specialized in software for the creation and publication of a wide range of content, including graphics, photography, illustration, animation, multimedia, motion pictures and print. The company has expanded into digital marketing management software. Adobe has millions of users worldwide. Flagship products include: Photoshop image editing software, Adobe Illustrator vector-based illustration software, Adobe Acrobat Reader and the Portable Document Format (PDF), plus a host of tools primarily for audio-visual content creation, editing and publishing."
+10,"Analog Devices, Inc.",ADI,24,10.1,7.7,5.9,0,No Controversy,Technology,"Analog Devices, Inc. (ADI), also known simply as Analog, is an American multinational semiconductor company specializing in data conversion, signal processing and power management technology, headquartered in Wilmington, Massachusetts."
+11,Archer-Daniels-Midland Company,ADM,36,18.2,13.2,5.0,3,Relatively High Controversy,Consumer Defensive,"The Archer-Daniels-Midland Company, commonly known as ADM, is an American multinational food processing and commodities trading corporation founded in 1902 and headquartered in Chicago, Illinois. The company operates more than 270 plants and 420 crop procurement facilities worldwide, where cereal grains and oilseeds are processed into products used in food, beverage, nutraceutical, industrial, and animal feed markets worldwide."
+12,"Automatic Data Processing, Inc.",ADP,14,1.1,7.0,5.9,1,Little Controversy,Industrials,
+13,Autodesk Inc.,ADSK,16,3.4,8.2,4.4,0,No Controversy,Technology,
+14,Ameren Corporation,AEE,30,14.1,9.9,5.5,2,Moderate Controversy,Utilities,
+15,"American Electric Power Company, Inc.",AEP,26,12.8,7.5,5.4,2,Moderate Controversy,Utilities,
+16,The AES Corporation ,AES,34,16.5,11.2,6.5,2,Moderate Controversy,Utilities,
+17,Aflac Incorporated ,AFL,17,0.5,7.3,9.6,2,Moderate Controversy,Financial Services,
+18,"American International Group, Inc.",AIG,25,1.9,9.7,13.8,2,Moderate Controversy,Financial Services,
+19,"Assurant, Inc. ",AIZ,24,1.6,11.6,11.3,3,Relatively High Controversy,Financial Services,
+20,Arthur J. Gallagher & Co.,AJG,21,0.1,10.7,10.5,2,Moderate Controversy,Financial Services,"Arthur J. Gallagher & Co. (AJG) is an American global insurance brokerage and risk management services firm headquartered in Rolling Meadows, Illinois."
+21,"Akamai Technologies, Inc. ",AKAM,17,2.9,6.9,6.7,1,Little Controversy,Technology,"Akamai Technologies, Inc. is a global content delivery network (CDN), cybersecurity, and cloud service company, providing web and Internet security services."
+22,Albemarle Corporation ,ALB,29,15.5,5.5,7.7,2,Moderate Controversy,Basic Materials,"Albemarle Corporation is a fine chemical manufacturing company based in Charlotte, North Carolina."
+23,The Allstate Corporation,ALL,19,1.4,7.8,9.9,2,Moderate Controversy,Financial Services,"The Allstate Corporation is an American insurance company, headquartered in Northfield Township, Illinois."
+24,Allegion plc,ALLE,24,12.8,4.5,6.4,0,No Controversy,Industrials,"Allegion plc is an American-Irish provider based in Dublin of security products, for homes and businesses. It comprises thirty one global brands, including CISA, Interflex, LCN, Schlage and Von Duprin."
+25,"Applied Materials, Inc. ",AMAT,12,3.8,2.6,5.1,1,Little Controversy,Technology,
+26,"AMETEK, Inc.",AME,24,8.6,8.5,6.9,1,Little Controversy,Industrials,
+27,Amgen Inc.,AMGN,22,0.7,13.5,7.9,3,Relatively High Controversy,Healthcare,
+28,"Ameriprise Financial, Inc. ",AMP,23,2.6,7.2,12.8,2,Moderate Controversy,Financial Services,
+29,American Tower Corporation,AMT,11,2.4,3.6,5.0,1,Little Controversy,Real Estate,
+30,"Amazon.com, Inc.",AMZN,30,5.6,14.8,9.9,3,Relatively High Controversy,Consumer Cyclical,
+31,"Arista Networks, Inc.",ANET,16,0.4,8.9,7.1,1,Little Controversy,Technology,
+32,"ANSYS, Inc.",ANSS,13,0.9,7.3,4.9,0,No Controversy,Technology,
+33,A. O. Smith Corporation ,AOS,25,7.3,11.9,6.3,0,No Controversy,Industrials,
+34,APA Corporation,APA,39,22.0,8.9,8.0,2,Moderate Controversy,Energy,"APA Corporation is the holding company for Apache Corporation, a company engaged in hydrocarbon exploration. It is organized in Delaware and headquartered in Houston."
+35,"Air Products and Chemicals, Inc.",APD,11,5.9,1.3,3.6,1,Little Controversy,Basic Materials,"Air Products and Chemicals, Inc. is an American international corporation whose principal business is selling gases and chemicals for industrial uses. Air Products' headquarters is in Allentown, Pennsylvania."
+36,Amphenol Corporation ,APH,21,8.0,5.5,7.8,2,Moderate Controversy,Technology,"Amphenol Corporation is a major producer of electronic and fiber optic connectors, cable and interconnect systems such as coaxial cables. Amphenol is a portmanteau from the corporation's original name, American Phenolic Corp."
+37,Aptiv PLC,APTV,12,2.5,3.8,5.3,1,Little Controversy,Consumer Cyclical,"Aptiv plc is an auto parts company headquartered in Dublin, Ireland."
+38,"Alexandria Real Estate Equities, Inc.",ARE,14,3.9,3.7,6.3,0,No Controversy,Real Estate,"Alexandria Real Estate Equities, Inc. is an American real estate investment trust that invests in office buildings and laboratories leased to tenants in the life science and technology industries."
+39,Atmos Energy Corporation ,ATO,35,14.8,13.4,6.5,2,Moderate Controversy,Utilities,
+40,"Activision Blizzard, Inc.",ATVI,19,0.2,12.5,6.3,4,Severe Controversy,Communication Services,
+41,"AvalonBay Communities, Inc.",AVB,11,3.0,3.0,4.6,1,Little Controversy,Real Estate,
+42,Broadcom Inc. ,AVGO,22,8.8,6.9,6.7,3,Relatively High Controversy,Technology,
+43,Avery Dennison Corporation,AVY,15,10.6,1.1,3.7,1,Little Controversy,Consumer Cyclical,
+44,"American Water Works Company, Inc.",AWK,22,9.0,7.6,5.3,1,Little Controversy,Utilities,
+45,American Express Company,AXP,18,0.1,8.4,9.9,2,Moderate Controversy,Financial Services,
+46,"AutoZone, Inc. ",AZO,11,0.1,7.1,3.8,2,Moderate Controversy,Consumer Cyclical,
+47,The Boeing Company,BA,35,7.1,19.7,7.9,4,Severe Controversy,Industrials,
+48,Bank of America Corporation ,BAC,27,1.6,14.4,11.2,3,Relatively High Controversy,Financial Services,"The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered in Charlotte, North Carolina. Founded in San Francisco, Bank of America was formed through NationsBank's acquisition of BankAmerica in 1998. It is the second largest banking institution in the United States, after JPMorgan Chase, and the eighth largest bank in the world. Bank of America is one of the Big Four banking institutions of the United States. It services approximately 10 percent of all American bank deposits, in direct competition with JPMorgan Chase, Citigroup and Wells Fargo. Its primary financial services revolve around commercial banking, wealth management, and investment banking."
+49,Ball Corporation,BALL,11,5.9,1.1,3.8,2,Moderate Controversy,Consumer Cyclical,"Ball Corporation supplies aluminum packaging products to the beverage, personal care, and household products industries in the United States, Brazil, and internationally. The company is headquartered in Westminster, Colorado."
+50,Baxter International Inc.,BAX,24,2.8,13.6,7.3,3,Relatively High Controversy,Healthcare,"Baxter International Inc. is an American multinational health care company with headquarters in Deerfield, Illinois. The company primarily focuses on products to treat hemophilia, kidney disease, immune disorders and other chronic and acute medical conditions. "
+51,"Bath & Body Works, Inc.",BBWI,16,2.6,8.4,4.5,2,Moderate Controversy,Consumer Cyclical,None
+52,"Best Buy Co., Inc.",BBY,14,2.2,7.2,4.8,2,Moderate Controversy,Consumer Cyclical,"Best Buy Co., Inc. is an American multinational consumer electronics retailer headquartered in Richfield, Minnesota."
+53,"Becton, Dickinson and Company",BDX,27,3.7,15.6,7.5,3,Relatively High Controversy,Healthcare,
+54,"Franklin Resources, Inc.",BEN,18,1.1,9.9,7.2,2,Moderate Controversy,Financial Services,
+55,Bunge Limited,BG,34,15.3,13.6,5.3,3,Relatively High Controversy,Consumer Defensive,
+56,Biogen Inc.,BIIB,21,0.0,13.2,7.8,3,Relatively High Controversy,Healthcare,
+57,"Bio-Rad Laboratories, Inc. ",BIO,17,1.4,8.3,7.2,1,Little Controversy,Healthcare,
+58,The Bank of New York Mellon Corporation,BK,21,1.1,9.2,11.2,3,Relatively High Controversy,Financial Services,
+59,Booking Holdings Inc.,BKNG,22,2.0,12.5,7.8,3,Relatively High Controversy,Consumer Cyclical,
+60,"BlackRock, Inc.",BLK,21,1.5,9.6,9.5,2,Moderate Controversy,Financial Services,
+61,Bristol-Myers Squibb Company,BMY,23,0.3,14.9,7.6,2,Moderate Controversy,Healthcare,
+62,"Broadridge Financial Solutions, Inc.",BR,16,0.8,9.0,6.4,2,Moderate Controversy,Technology,"Broadridge Financial Solutions is a public corporate services company founded in 2007 as a spin-off from Automatic Data Processing. The main business of Broadridge is as a service provider supplying public companies with proxy statements, annual reports and other financial documents, and shareholder communications solutions, such as virtual annual meetings."
+63,"Brown & Brown, Inc. ",BRO,21,0.2,10.6,10.7,1,Little Controversy,Financial Services,"Brown & Brown, Inc. markets and sells insurance products and services in the United States, Bermuda, Canada, the Cayman Islands, Ireland, and the United Kingdom. The company is headquartered in Daytona Beach, Florida."
+64,Boston Scientific Corporation,BSX,26,3.0,12.7,10.6,2,Moderate Controversy,Healthcare,"Boston Scientific Corporation, doing business as Boston Scientific, is a manufacturer of medical devices used in interventional medical specialties, including interventional radiology, interventional cardiology, peripheral interventions, neuromodulation, neurovascular intervention, electrophysiology, cardiac surgery, vascular surgery, endoscopy, oncology, urology and gynecology."
+65,BorgWarner Inc.,BWA,13,2.9,4.2,5.7,2,Moderate Controversy,Consumer Cyclical,"BorgWarner Inc. is an American multinational automotive supplier headquartered in Auburn Hills, Michigan."
+66,"Boston Properties, Inc.",BXP,13,2.5,4.5,5.4,1,Little Controversy,Real Estate,"Boston Properties, Inc. is a publicly traded real estate investment trust that invests in office buildings in Boston, Los Angeles, New York City, San Francisco, and Washington, D.C."
+67,Citigroup Inc.,C,27,1.8,13.1,11.8,4,Severe Controversy,Financial Services,
+68,"Conagra Brands, Inc.",CAG,32,11.0,15.9,4.9,2,Moderate Controversy,Consumer Defensive,
+69,"Cardinal Health, Inc.",CAH,12,1.5,5.9,4.9,3,Relatively High Controversy,Healthcare,
+70,Caterpillar Inc.,CAT,34,7.2,18.5,8.5,4,Severe Controversy,Unknown,
+71,Chubb Limited ,CB,24,1.7,11.6,10.6,2,Moderate Controversy,Financial Services,
+72,"Cboe Global Markets, Inc.",CBOE,21,2.7,7.6,10.6,1,Little Controversy,Financial Services,
+73,"CBRE Group, Inc. ",CBRE,7,1.3,2.4,3.2,1,Little Controversy,Real Estate,
+74,Crown Castle Inc. ,CCI,13,5.2,2.9,5.1,0,No Controversy,Real Estate,
+75,Carnival Corporation & plc ,CCL,24,10.0,9.9,3.8,3,Relatively High Controversy,Consumer Cyclical,
+76,"Cadence Design Systems, Inc.",CDNS,12,1.4,6.1,4.7,0,No Controversy,Technology,"Cadence Design Systems, Inc., headquartered in San Jose, California, is an American multinational computational software company. The company produces software, hardware and silicon structures for designing integrated circuits, systems on chips (SoCs) and printed circuit boards."
+77,CDW Corporation ,CDW,9,2.4,3.3,3.5,0,No Controversy,Technology,"CDW Corporation, headquartered in Lincolnshire, Illinois, is a provider of technology products and services for business, government and education."
+78,Celanese Corporation,CE,29,15.1,7.7,6.5,2,Moderate Controversy,Basic Materials,"Celanese Corporation is a Fortune 500 global technology and specialty materials company headquartered in Irving, Texas, United States."
+79,"CF Industries Holdings, Inc.",CF,30,16.8,7.7,5.5,1,Little Controversy,Basic Materials,"CF Industries Holdings, Inc. is a North American manufacturer and distributor of agricultural fertilizers, based in Deerfield, Illinois."
+80,"Citizens Financial Group, Inc.",CFG,23,2.0,10.1,11.4,2,Moderate Controversy,Financial Services,"Citizens Financial Group, Inc. is an American bank headquartered in Providence, Rhode Island."
+81,"Church & Dwight Co., Inc. ",CHD,20,6.5,6.6,6.6,2,Moderate Controversy,Consumer Defensive,
+82,"C.H. Robinson Worldwide, Inc.",CHRW,20,5.2,9.3,5.6,1,Little Controversy,Industrials,
+83,"Charter Communications, Inc.",CHTR,27,5.6,13.1,7.9,2,Moderate Controversy,Communication Services,
+84,The Cigna Group,CI,12,0.0,6.0,5.7,2,Moderate Controversy,Healthcare,
+85,Cincinnati Financial Corporation ,CINF,26,1.8,11.0,12.8,1,Little Controversy,Financial Services,
+86,Colgate-Palmolive Company ,CL,22,6.1,9.4,6.7,3,Relatively High Controversy,Consumer Defensive,
+87,The Clorox Company,CLX,21,6.3,9.2,5.6,2,Moderate Controversy,Consumer Defensive,
+88,Comerica Incorporated,CMA,26,2.3,11.0,12.7,2,Moderate Controversy,Financial Services,
+89,Comcast Corporation,CMCSA,25,4.6,12.1,8.1,2,Moderate Controversy,Communication Services,
+90,CME Group Inc.,CME,15,2.1,6.2,6.2,1,Little Controversy,Financial Services,
+91,"Chipotle Mexican Grill, Inc.",CMG,24,5.5,13.4,4.7,2,Moderate Controversy,Consumer Cyclical,"Chipotle Mexican Grill, Inc., often known simply as Chipotle, is an American chain of fast casual restaurants in the United States, United Kingdom, Canada, Germany, and France, specializing in tacos and Mission burritos that are made to order in front of the customer."
+92,Cummins Inc.,CMI,19,5.8,7.5,6.1,2,Moderate Controversy,Industrials,"Cummins is a Columbus, Indiana based multinational corporation that designs, manufactures, and distributes engines, filtration, and power generation products. Cummins also services engines and related equipment, including fuel systems, controls, air handling, filtration, emission control, electrical power generation systems, and trucks."
+93,CMS Energy Corporation ,CMS,21,9.8,5.8,5.7,2,Moderate Controversy,Utilities,"CMS Energy (NYSE: CMS), based in Jackson, Michigan, is an energy company that is focused principally on utility operations in Michigan."
+94,Centene Corporation,CNC,21,0.1,13.3,7.2,2,Moderate Controversy,Healthcare,"Centene Corporation is a large publicly traded company and a multi-line managed care enterprise that serves as a major intermediary for both government-sponsored and privately insured health care programs. It is a healthcare insurer that focuses on managed care for uninsured, underinsured, and low-income individuals."
+95,"CenterPoint Energy, Inc. ",CNP,26,10.6,9.6,5.4,2,Moderate Controversy,Utilities,"CenterPoint Energy, Inc. is an American Fortune 500 electric and natural gas utility serving several markets in the American states of Arkansas, Indiana, Louisiana, Minnesota, Mississippi, Oklahoma, and Texas."
+96,Capital One Financial Corporation,COF,23,0.1,13.3,9.2,4,Severe Controversy,Financial Services,"Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States."
+97,"The Cooper Companies, Inc.",COO,20,2.7,10.8,6.0,2,Moderate Controversy,Healthcare,
+98,ConocoPhillips ,COP,35,17.3,9.7,7.9,2,Moderate Controversy,Energy,
+99,Costco Wholesale Corporation,COST,24,7.3,11.2,5.7,3,Relatively High Controversy,Consumer Defensive,
+100,Campbell Soup Company,CPB,24,10.9,8.1,4.5,2,Moderate Controversy,Consumer Defensive,
+101,"Copart, Inc. ",CPRT,18,1.6,11.0,5.4,1,Little Controversy,Consumer Cyclical,
+102,Camden Property Trust,CPT,16,4.5,4.1,7.3,1,Little Controversy,Real Estate,
+103,"Salesforce, Inc.",CRM,13,2.0,6.0,4.0,2,Moderate Controversy,Technology,
+104,"Cisco Systems, Inc.",CSCO,12,0.0,5.6,6.4,2,Moderate Controversy,Technology,
+105,"CoStar Group, Inc. ",CSGP,27,5.4,13.1,8.4,1,Little Controversy,Real Estate,
+106,CSX Corporation,CSX,20,7.4,9.2,3.4,3,Relatively High Controversy,Industrials,
+107,Cintas Corporation,CTAS,18,3.2,9.2,5.9,2,Moderate Controversy,Industrials,"Cintas Corporation is an American corporation headquartered in Cincinnati, Ohio, which provides a range of products and services to businesses including uniforms, mats, mops, cleaning and restroom supplies, first aid and safety products, fire extinguishers and testing, and safety courses."
+108,Coterra Energy Inc.,CTRA,46,24.1,13.1,8.8,2,Moderate Controversy,Energy,"Coterra Energy Inc., an independent oil and gas company, explores, exploits, develops, produces and markets oil and gas properties in the United States. The company is headquartered in Houston, Texas."
+109,Cognizant Technology Solutions Corporation,CTSH,14,1.1,7.6,5.6,2,Moderate Controversy,Technology,"Cognizant is an American multinational technology company that provides business consulting, information technology and outsourcing services. It is headquartered in Teaneck, New Jersey, United States."
+110,CVS Health Corporation,CVS,23,0.0,16.4,6.4,3,Relatively High Controversy,Healthcare,"CVS Health (previously CVS Corporation and CVS Caremark Corporation) is an American healthcare company that owns CVS Pharmacy, a retail pharmacy chain; CVS Caremark, a pharmacy benefits manager; Aetna, a health insurance provider, among many other brands. The company's headquarters is in Woonsocket, Rhode Island."
+111,Chevron Corporation,CVX,38,18.6,8.7,10.3,3,Relatively High Controversy,Energy,"Chevron Corporation is an American multinational energy corporation. One of the successor companies of Standard Oil, it is headquartered in San Ramon, California, and active in more than 180 countries. Chevron is engaged in every aspect of the oil and natural gas industries, including hydrocarbon exploration and production; refining, marketing and transport; chemicals manufacturing and sales; and power generation."
+112,"Dominion Energy, Inc. ",D,25,11.1,8.6,5.7,2,Moderate Controversy,Utilities,
+113,"Delta Air Lines, Inc.",DAL,26,9.5,11.5,5.2,2,Moderate Controversy,Industrials,
+114,"DuPont de Nemours, Inc.",DD,29,13.4,8.1,7.4,3,Relatively High Controversy,Basic Materials,
+115,Deere & Company ,DE,17,3.2,6.9,6.6,2,Moderate Controversy,Industrials,
+116,Discover Financial Services,DFS,23,0.1,11.9,10.6,2,Moderate Controversy,Financial Services,
+117,Dollar General Corporation ,DG,17,3.3,8.6,5.5,2,Moderate Controversy,Consumer Defensive,
+118,Quest Diagnostics Incorporated,DGX,21,0.0,13.0,8.0,3,Relatively High Controversy,Healthcare,
+119,"D.R. Horton, Inc.",DHI,22,9.4,6.7,5.7,2,Moderate Controversy,Consumer Cyclical,
+120,Danaher Corporation,DHR,12,1.4,5.2,5.2,2,Moderate Controversy,Healthcare,
+121,The Walt Disney Company,DIS,15,0.1,7.9,6.9,2,Moderate Controversy,Communication Services,"The Walt Disney Company, commonly known as Disney, is an American diversified multinational mass media and entertainment conglomerate headquartered at the Walt Disney Studios complex in Burbank, California."
+122,DISH Network Corporation,DISH,21,1.6,10.3,9.6,3,Relatively High Controversy,Communication Services,"DISH Network Corporation is an American television provider and the owner of the direct-broadcast satellite provider DISH, commonly known as DISH Network, and the over-the-top IPTV service, Sling TV."
+123,"Digital Realty Trust, Inc.",DLR,13,2.8,2.8,7.0,0,No Controversy,Real Estate,"Digital Realty Trust, Inc. is a real estate investment trust that invests in carrier-neutral data centers and provides colocation and peering services."
+124,"Dollar Tree, Inc.",DLTR,15,3.4,7.4,4.1,2,Moderate Controversy,Consumer Defensive,"Dollar Tree is an American chain of discount variety stores that sells items for $1 or less, headquartered in Chesapeake, Virginia."
+125,"Dollar Tree, Inc.",DOV,25,7.1,12.4,5.8,1,Little Controversy,Industrials,"Dover Corporation is an American conglomerate manufacturer of industrial products. Founded in 1955 in New York City, Dover is now based in Downers Grove, Illinois."
+126,"Domino's Pizza, Inc.",DPZ,31,7.7,16.7,6.6,2,Moderate Controversy,Consumer Cyclical,
+127,"Darden Restaurants, Inc.",DRI,28,8.4,15.0,4.6,2,Moderate Controversy,Consumer Cyclical,
+128,DTE Energy Company,DTE,30,15.3,10.0,4.8,2,Moderate Controversy,Utilities,
+129,Duke Energy Corporation,DUK,28,14.5,8.6,4.6,2,Moderate Controversy,Utilities,
+130,DaVita Inc.,DVA,23,0.1,14.1,8.4,2,Moderate Controversy,Healthcare,
+131,Devon Energy Corporation,DVN,37,20.7,8.1,7.8,2,Moderate Controversy,Energy,
+132,DXC Technology Company,DXC,16,1.3,9.7,5.1,2,Moderate Controversy,Technology,
+133,"DexCom, Inc. ",DXCM,24,5.4,10.2,8.1,0,No Controversy,Healthcare,
+134,Electronic Arts Inc.,EA,10,0.1,5.5,4.7,2,Moderate Controversy,Communication Services,
+135,eBay Inc.,EBAY,17,0.9,9.3,6.8,2,Moderate Controversy,Consumer Cyclical,
+136,Ecolab Inc.,ECL,24,9.5,8.4,6.2,2,Moderate Controversy,Basic Materials,"Ecolab Inc., headquartered in St. Paul, Minnesota, is an American corporation that develops and offers services, technology and systems that specialize in water treatment, purification, cleaning and hygiene in a wide variety of applications. It helps organizations both private market as well as public treat their water, not only for drinking directly, but also for use in food, healthcare, hospitality related safety and industry."
+137,"Consolidated Edison, Inc.",ED,23,7.5,9.3,6.3,3,Relatively High Controversy,Utilities,"Consolidated Edison, Inc., commonly known as Con Edison (stylized as conEdison) or ConEd, is one of the largest investor-owned energy companies in the United States, with approximately $12 billion in annual revenues as of 2017, and over $48 billion in assets. The company provides a wide range of energy-related products and services to its customers through its subsidiaries."
+138,Equifax Inc. ,EFX,26,0.2,18.6,7.0,4,Severe Controversy,Industrials,"Equifax Inc. is an American multinational consumer credit reporting agency and is one of the three largest consumer credit reporting agencies, along with Experian and TransUnion. In addition to credit and demographic data and services to business, Equifax sells credit monitoring and fraud prevention services directly to consumers."
+139,Edison International,EIX,27,10.7,11.2,5.5,3,Relatively High Controversy,Utilities,"Edison International is a public utility holding company based in Rosemead, California. Its subsidiaries include Southern California Edison, and unregulated non-utility business assets Edison Energy."
+140,The Estée Lauder Companies Inc.,EL,26,6.9,11.3,7.7,2,Moderate Controversy,Consumer Defensive,"The Estee Lauder Companies Inc. is an American multinational manufacturer and marketer of prestige skincare, makeup, fragrance and hair care products, based in Midtown Manhattan, New York City. The company owns a diverse portfolio of brands, distributed internationally through both digital commerce and retail channels."
+141,"Elevance Health, Inc. ",ELV,11,0.0,5.8,5.7,2,Moderate Controversy,Healthcare,"Elevance Health Inc. is a health benefits company. The company is headquartered in Indianapolis, Indiana."
+142,Eastman Chemical Company,EMN,25,12.0,5.4,7.2,2,Moderate Controversy,Basic Materials,
+143,Emerson Electric Co.,EMR,29,10.1,12.3,7.0,2,Moderate Controversy,Industrials,
+144,"EOG Resources, Inc.",EOG,36,20.4,8.1,7.7,1,Little Controversy,Energy,
+145,"Equinix, Inc. ",EQIX,12,2.6,3.5,5.7,1,Little Controversy,Real Estate,
+146,Equity Residential,EQR,11,2.9,3.1,5.2,1,Little Controversy,Real Estate,
+147,EQT Corporation,EQT,37,19.0,10.1,7.5,1,Little Controversy,Energy,
+148,Eversource Energy,ES,19,4.8,8.2,5.8,2,Moderate Controversy,Utilities,
+149,Eaton Corporation plc,ETN,18,5.4,6.8,5.7,1,Little Controversy,Industrials,
+150,Entergy Corporation,ETR,30,16.3,6.8,6.4,2,Moderate Controversy,Utilities,
+151,Edwards Lifesciences Corporation,EW,19,2.9,8.9,7.6,2,Moderate Controversy,Healthcare,"Edwards Lifesciences is an American medical technology company headquartered in Irvine, California, specializing in artificial heart valves and hemodynamic monitoring."
+152,Exelon Corporation,EXC,24,8.8,9.0,6.6,3,Relatively High Controversy,Utilities,"Exelon Corporation is an American Fortune 100 energy company headquartered in Chicago, Illinois and incorporated in Pennsylvania."
+153,"Expeditors International of Washington, Inc.",EXPD,16,3.8,7.3,4.6,2,Moderate Controversy,Industrials,"Expeditors (Expeditors International of Washington) is an American worldwide logistics and freight forwarding company headquartered in Seattle, Washington."
+154,"Expedia Group, Inc.",EXPE,26,2.1,13.8,9.8,2,Moderate Controversy,Consumer Cyclical,"Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel. Its websites, which are primarily travel fare aggregators and travel metasearch engines, include Expedia.com, Vrbo (previously HomeAway), Hotels.com, Hotwire.com, Orbitz, Travelocity, trivago and CarRentals.com."
+155,Extra Space Storage Inc.,EXR,14,3.8,4.3,6.0,1,Little Controversy,Real Estate,"Extra Space Storage is a real estate investment trust headquartered in Cottonwood Heights, Utah that invests in self storage units."
+156,Ford Motor Company,F,30,9.3,11.3,9.4,3,Relatively High Controversy,Consumer Cyclical,"Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan."
+157,Fastenal Company,FAST,26,10.7,8.7,7.1,2,Moderate Controversy,Industrials,
+158,Freeport-McMoRan Inc.,FCX,32,16.6,10.1,5.2,4,Severe Controversy,Basic Materials,
+159,FactSet Research Systems Inc.,FDS,20,2.9,10.9,6.6,1,Little Controversy,Financial Services,
+160,FedEx Corporation,FDX,20,5.3,9.3,5.8,2,Moderate Controversy,Industrials,
+161,FirstEnergy Corp.,FE,30,13.0,9.7,6.8,3,Relatively High Controversy,Utilities,
+162,"F5, Inc.",FFIV,19,1.3,12.5,5.4,1,Little Controversy,Technology,
+163,"Fidelity National Information Services, Inc.",FIS,18,1.3,11.1,5.7,1,Little Controversy,Technology,
+164,"Fiserv, Inc. ",FISV,19,1.2,10.7,6.8,2,Moderate Controversy,Technology,
+165,Fifth Third Bancorp,FITB,17,1.4,8.7,7.4,2,Moderate Controversy,Financial Services,
+166,"FLEETCOR Technologies, Inc.",FLT,18,2.9,9.1,6.2,2,Moderate Controversy,Technology,
+167,FMC Corporation,FMC,33,16.2,9.1,7.5,2,Moderate Controversy,Basic Materials,"FMC Corporation (Food Machinery and Chemical Corporation) is an American chemical manufacturing company headquartered in Philadelphia, Pennsylvania."
+168,First Republic Bank,FRC,24,1.7,9.8,12.7,2,Moderate Controversy,Financial Services,
+169,Federal Realty Investment Trust,FRT,12,2.3,4.3,5.8,1,Little Controversy,Real Estate,"Federal Realty Investment Trust is a real estate investment trust that invests in shopping centers in the Northeastern United States, the Mid-Atlantic states, California, and South Florida."
+170,"Fortinet, Inc. ",FTNT,19,1.2,12.2,5.7,1,Little Controversy,Technology,"Fortinet (Nasdaq: FTNT) is an American multinational corporation headquartered in Sunnyvale, California. It develops and sells cybersecurity solutions, including but not limited to physical products such as firewalls, plus software and services such as anti-virus protection, intrusion prevention systems and endpoint security components."
+171,Fortive Corporation,FTV,35,16.1,14.0,4.7,1,Little Controversy,Technology,
+172,General Dynamics Corporation,GD,35,8.5,19.5,6.9,3,Relatively High Controversy,Industrials,
+173,General Electric Company,GE,41,14.1,15.0,11.6,3,Relatively High Controversy,Industrials,
+174,Gen Digital Inc. ,GEN,15,0.7,9.5,4.8,2,Moderate Controversy,Technology,
+175,"Gilead Sciences, Inc.",GILD,22,0.0,14.0,8.0,2,Moderate Controversy,Healthcare,
+176,"General Mills, Inc.",GIS,22,8.4,8.9,4.1,2,Moderate Controversy,Consumer Defensive,
+177,Globe Life Inc. ,GL,20,1.6,8.2,10.5,1,Little Controversy,Financial Services,
+178,Corning Incorporated ,GLW,19,7.3,5.2,6.9,2,Moderate Controversy,Technology,
+179,General Motors Company,GM,31,10.3,12.9,7.7,4,Severe Controversy,Consumer Cyclical,
+180,Alphabet Inc. ,GOOGL,24,1.7,11.1,11.4,4,Severe Controversy,Communication Services,"Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world's fourth-largest technology company by revenue and one of the world's most valuable companies."
+181,Genuine Parts Company,GPC,13,3.6,5.2,3.8,2,Moderate Controversy,Consumer Cyclical,"Genuine Parts Company (GPC) is an American service organization engaged in the distribution of automotive replacement parts, industrial replacement parts, office products and electrical/electronic materials."
+182,Global Payments Inc. ,GPN,19,1.3,11.0,6.8,1,Little Controversy,Industrials,"Global Payments Inc. is an American company providing financial technology services globally headquartered in Atlanta, Georgia."
+183,Garmin Ltd. ,GRMN,19,5.4,7.9,5.3,2,Moderate Controversy,Technology,"Garmin Ltd. is an American multinational technology company with headquarters in Olathe, Kansas."
+184,"The Goldman Sachs Group, Inc.",GS,26,1.3,12.7,12.2,3,Relatively High Controversy,Financial Services,"The Goldman Sachs Group, Inc., is an American multinational investment bank and financial services company headquartered in New York City. It offers services in investment management, securities, asset management, prime brokerage, and securities underwriting. It also provides investment banking to institutional investors."
+185,"W.W. Grainger, Inc. ",GWW,15,3.0,5.0,6.0,1,Little Controversy,Industrials,
+186,Halliburton Company,HAL,24,8.9,8.6,6.3,2,Moderate Controversy,Energy,
+187,"Hasbro, Inc. ",HAS,7,0.0,2.9,4.2,2,Moderate Controversy,Consumer Cyclical,
+188,Huntington Bancshares Incorporated ,HBAN,20,2.0,10.8,7.6,2,Moderate Controversy,Financial Services,
+189,Huntington Bancshares Incorporated ,HCA,28,3.5,17.3,7.4,2,Moderate Controversy,Healthcare,
+190,"The Home Depot, Inc. ",HD,13,3.4,5.5,3.6,2,Moderate Controversy,Consumer Cyclical,
+191,Hess Corporation,HES,36,22.1,7.2,6.8,2,Moderate Controversy,Energy,
+192,"The Hartford Financial Services Group, Inc.",HIG,16,1.5,6.0,8.7,1,Little Controversy,Financial Services,
+193,Hilton Worldwide Holdings Inc.,HLT,17,7.0,6.8,3.7,2,Moderate Controversy,Consumer Cyclical,
+194,"Hologic, Inc. ",HOLX,28,4.8,13.3,10.2,1,Little Controversy,Healthcare,
+195,Honeywell International Inc,HON,29,10.6,10.2,8.5,3,Relatively High Controversy,Industrials,"Honeywell International Inc. is an American publicly traded, multinational conglomerate headquartered in Charlotte, North Carolina. It primarily operates in four areas of business: aerospace, building technologies, performance materials and technologies (PMT), and safety and productivity solutions (SPS)."
+196,Hewlett Packard Enterprise Company,HPE,12,0.8,4.9,6.3,2,Moderate Controversy,Technology,"The Hewlett Packard Enterprise Company (HPE) is an American multinational enterprise information technology company based in Houston, Texas, United States."
+197,HP Inc.,HPQ,11,0.1,5.0,5.8,2,Moderate Controversy,Technology,"HP Inc. is an American multinational information technology company headquartered in Palo Alto, California, that develops personal computers (PCs), printers and related supplies, as well as 3D printing solutions."
+198,Hormel Foods Corporation,HRL,30,13.2,10.7,6.0,3,Relatively High Controversy,Consumer Defensive,"Hormel Foods Corporation is an American company founded in 1891 in Austin, Minnesota, by George A. Hormel as George A. Hormel & Company. Originally focusing on the packaging and selling of ham, Spam, sausage and other pork, chicken, beef and lamb products to consumers; by the 1980s, Hormel began offering a wider range of packaged and refrigerated foods."
+199,"Henry Schein, Inc.",HSIC,13,2.1,5.6,5.6,2,Moderate Controversy,Healthcare,"Henry Schein, Inc. is an American distributor of health care products and services with a presence in 32 countries."
+200,"Host Hotels & Resorts, Inc. ",HST,14,3.3,5.6,5.1,1,Little Controversy,Real Estate,"Host Hotels & Resorts, Inc. is a real estate investment trust that invests in hotels."
+201,The Hershey Company ,HSY,27,11.3,10.9,5.2,3,Relatively High Controversy,Consumer Defensive,
+202,Humana Inc.,HUM,22,0.0,16.4,5.9,2,Moderate Controversy,Healthcare,
+203,International Business Machines Corporation,IBM,15,0.5,6.7,7.6,2,Moderate Controversy,Technology,
+204,Intercontinental Exchange,ICE,16,1.7,8.0,6.7,2,Moderate Controversy,Financial Services,
+205,Idexx Laboratories,IDXX,19,3.3,7.1,9.1,1,Little Controversy,Healthcare,
+206,IDEX Corporation,IEX,27,8.1,13.0,5.7,0,No Controversy,Industrials,
+207,International Flavors & Fragrances,IFF,22,10.4,5.4,6.5,2,Moderate Controversy,Basic Materials,
+208,Illumina,ILMN,11,1.0,3.7,6.2,3,Relatively High Controversy,Healthcare,"Illumina, Inc. is an American company. Incorporated on April 1, 1998, Illumina develops, manufactures, and markets integrated systems for the analysis of genetic variation and biological function. The company provides a line of products and services that serves the sequencing, genotyping and gene expression, and proteomics markets. Its headquarters are located in San Diego, California."
+209,Incyte,INCY,24,1.5,15.6,7.1,1,Little Controversy,Healthcare,"Incyte Corp is an American pharmaceutical company based in Alapocas, Delaware."
+210,Intel,INTC,17,4.4,5.9,7.0,3,Relatively High Controversy,Technology,"Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley. It is the world's largest semiconductor chip manufacturer by revenue, and is the developer of the x86 series of microprocessors, the processors found in most personal computers (PCs)."
+211,Intuit,INTU,16,1.0,10.5,4.7,2,Moderate Controversy,Technology,"Intuit Inc. is an American business that specializes in financial software. Intuit's products include the tax preparation application TurboTax, personal finance app Mint and the small business accounting program QuickBooks."
+212,International Paper,IP,24,14.3,4.5,4.9,3,Relatively High Controversy,Consumer Cyclical,"The International Paper Company (NYSE: IP) is an American pulp and paper company, the largest such company in the world. The company is headquartered in Memphis, Tennessee."
+213,Interpublic Group of Companies (The),IPG,10,0.0,5.1,5.3,1,Little Controversy,Communication Services,
+214,IQVIA,IQV,19,1.3,10.6,7.2,2,Moderate Controversy,Healthcare,
+215,Iron Mountain,IRM,15,5.0,3.7,6.0,2,Moderate Controversy,Real Estate,
+216,Intuitive Surgical,ISRG,24,4.4,9.8,9.6,1,Little Controversy,Healthcare,
+217,Gartner,IT,22,0.1,15.4,6.2,1,Little Controversy,Technology,
+218,Illinois Tool Works,ITW,20,4.3,9.1,6.2,2,Moderate Controversy,Industrials,
+219,Invesco,IVZ,20,0.7,9.9,9.8,2,Moderate Controversy,Financial Services,
+220,Jacobs Solutions,J,22,5.3,11.5,5.6,3,Relatively High Controversy,Industrials,
+221,J.B. Hunt,JBHT,14,3.0,6.0,4.9,1,Little Controversy,Industrials,
+222,Johnson Controls,JCI,15,4.9,4.6,5.3,3,Relatively High Controversy,Industrials,"Johnson Controls International plc is an Irish-domiciled multinational conglomerate headquartered in Cork, Ireland, that produces fire, HVAC, and security equipment for buildings."
+223,Jack Henry & Associates,JKHY,15,0.8,9.4,5.2,0,No Controversy,Technology,"Jack Henry & Associates, Inc. is a technology company and payment processing service for the financial services industry."
+224,Johnson & Johnson,JNJ,25,0.7,15.8,8.6,4,Severe Controversy,Healthcare,"Johnson & Johnson (J&J) is an American multinational corporation founded in 1886 that develops medical devices, pharmaceuticals, and consumer packaged goods. Its common stock is a component of the Dow Jones Industrial Average and the company is ranked No. 36 on the 2021 Fortune 500 list of the largest United States corporations by total revenue. Johnson & Johnson is one of the world's most valuable companies, and is one of only two U.S.-based companies that has a prime credit rating of AAA, higher than that of the United States government."
+225,Juniper Networks,JNPR,17,1.7,8.5,6.4,1,Little Controversy,Technology,"Juniper Networks, Inc. is an American multinational corporation headquartered in Sunnyvale, California. The company develops and markets networking products, including routers, switches, network management software, network security products, and software-defined networking technology."
+226,JPMorgan Chase,JPM,29,1.1,16.2,11.7,3,Relatively High Controversy,Financial Services,"JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City. JPMorgan Chase is incorporated in Delaware. As a Bulge Bracket bank, it is a major provider of various investment banking and financial services. It is one of America's Big Four banks, along with Bank of America, Citigroup, and Wells Fargo. JPMorgan Chase is considered to be a universal bank and a custodian bank. The J.P. Morgan brand is used by the investment banking, asset management, private banking, private wealth management, and treasury services divisions."
+227,Kellogg's,K,27,7.4,14.9,4.6,2,Moderate Controversy,Consumer Defensive,
+228,KeyCorp,KEY,23,1.9,11.1,10.2,1,Little Controversy,Financial Services,
+229,Keysight,KEYS,9,2.0,2.2,5.0,1,Little Controversy,Technology,
+230,Kraft Heinz,KHC,35,14.4,14.3,6.6,3,Relatively High Controversy,Consumer Defensive,
+231,Kimco Realty,KIM,12,3.7,2.9,5.5,0,No Controversy,Real Estate,
+232,KLA Corporation,KLAC,17,7.1,4.8,4.9,0,No Controversy,Technology,
+233,Kimberly-Clark,KMB,22,8.1,7.8,6.2,2,Moderate Controversy,Consumer Defensive,
+234,Kinder Morgan,KMI,19,7.8,7.3,3.5,2,Moderate Controversy,Energy,
+235,CarMax,KMX,12,0.1,8.0,4.0,2,Moderate Controversy,Consumer Cyclical,
+236,Coca-Cola Company (The),KO,23,7.9,9.7,4.9,3,Relatively High Controversy,Consumer Defensive,"The Coca-Cola Company is an American multinational beverage corporation incorporated under Delaware's General Corporation Law and headquartered in Atlanta, Georgia. The Coca-Cola Company has interests in the manufacturing, retailing, and marketing of nonalcoholic beverage concentrates and syrups."
+237,Kroger,KR,21,6.5,9.4,5.5,3,Relatively High Controversy,Consumer Defensive,"The Kroger Company, or simply Kroger, is an American retail company founded by Bernard Kroger in 1883 in Cincinnati, Ohio."
+238,Loews Corporation,L,16,0.6,4.3,11.6,2,Moderate Controversy,Financial Services,"Loews Corporation is an American conglomerate headquartered in New York City. The company's majority-stake holdings include CNA Financial Corporation, Diamond Offshore Drilling, Boardwalk Pipeline Partners, Loews Hotels and Altium Packaging."
+239,Leidos,LDOS,12,1.3,5.0,5.4,2,Moderate Controversy,Technology,"Leidos, formerly known as Science Applications International Corporation (SAIC), is an American defense, aviation, information technology (Lockheed Martin IS&GS), and biomedical research company headquartered in Reston, Virginia, that provides scientific, engineering, systems integration, and technical services."
+240,Lennar,LEN,23,8.9,8.8,5.5,2,Moderate Controversy,Consumer Cyclical,"Lennar Corporation is a home construction and real estate company based in Fontainebleau, Florida."
+241,LabCorp,LH,19,0.1,11.6,7.1,2,Moderate Controversy,Healthcare,"Laboratory Corporation of America Holdings, more commonly known as Labcorp, is an American company headquartered in Burlington, North Carolina. It operates one of the largest clinical laboratory networks in the world, with a United States network of 36 primary laboratories."
+242,LKQ Corporation,LKQ,11,3.3,4.0,3.3,2,Moderate Controversy,Consumer Cyclical,
+243,Eli Lilly and Company,LLY,32,3.4,17.4,11.6,2,Moderate Controversy,Healthcare,
+244,Lockheed Martin,LMT,28,5.3,15.9,7.2,3,Relatively High Controversy,Industrials,
+245,Lincoln Financial,LNC,18,1.9,6.1,9.9,2,Moderate Controversy,Financial Services,
+246,Alliant Energy,LNT,22,10.0,5.7,6.2,1,Little Controversy,Utilities,
+247,Lowe's,LOW,11,3.7,4.6,3.2,2,Moderate Controversy,Consumer Cyclical,
+248,Lam Research,LRCX,13,4.5,4.0,5.0,1,Little Controversy,Technology,
+249,Southwest Airlines,LUV,32,11.0,15.0,6.0,2,Moderate Controversy,Industrials,
+250,Las Vegas Sands,LVS,18,1.3,7.8,8.6,2,Moderate Controversy,Consumer Cyclical,
+251,LyondellBasell,LYB,25,16.6,2.1,5.8,2,Moderate Controversy,Basic Materials,"LyondellBasell Industries N.V. (NYSE: LYB) is a Dutch-domiciled multinational chemical company with American and British roots, incorporated in the Netherlands, with U.S. operations headquarters in Houston, Texas, and offices in London, UK. The company is the largest licensor of polyethylene and polypropylene technologies. It also produces ethylene, propylene, polyolefins, and oxyfuels."
+252,Mastercard,MA,17,0.3,8.1,8.6,4,Severe Controversy,Financial Services,"Mastercard Incorporated is an American multinational financial services corporation headquartered in the Mastercard International Global Headquarters in Purchase, New York. The Global Operations Headquarters is located in O'Fallon, Missouri, a municipality of St. Charles County, Missouri. Throughout the world, its principal business is to process payments between the banks of merchants and the card-issuing banks or credit unions of the purchasers who use the Mastercard brand debit, credit and prepaid cards to make purchases. Mastercard Worldwide has been a publicly traded company since 2006."
+253,Mid-America Apartment Communities,MAA,15,6.0,4.0,5.0,1,Little Controversy,Real Estate,"Mid-America Apartment Communities (MAA) is a publicly traded real estate investment trust based in Memphis, Tennessee that invests in apartments in the Southeastern United States and the Southwestern United States."
+254,Marriott International,MAR,22,8.8,9.1,4.1,3,Relatively High Controversy,Consumer Cyclical,"Marriott International, Inc. is an American multinational company that operates, franchises, and licenses lodging including hotel, residential, and timeshare properties. It is headquartered in Bethesda, Maryland."
+255,Masco,MAS,22,9.4,5.8,7.2,1,Little Controversy,Industrials,Masco Corporation is a manufacturer of products for the home improvement and new home construction markets.
+256,McDonald's,MCD,25,4.2,14.3,6.3,3,Relatively High Controversy,Consumer Cyclical,"McDonald's Corporation is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona."
+257,Microchip Technology,MCHP,31,15.0,9.0,7.0,1,Little Controversy,Technology,
+258,McKesson,MCK,15,2.3,7.4,5.5,3,Relatively High Controversy,Healthcare,
+259,Moody's Corporation,MCO,11,0.0,5.0,5.0,2,Moderate Controversy,Financial Services,
+260,Mondelez International,MDLZ,24,9.0,9.0,5.0,3,Relatively High Controversy,Consumer Defensive,
+261,Medtronic,MDT,23,2.4,12.6,7.6,3,Relatively High Controversy,Healthcare,
+262,MetLife,MET,15,1.0,5.0,9.0,2,Moderate Controversy,Financial Services,
+263,Meta Platforms,META,33,1.0,21.0,11.0,4,Severe Controversy,Communication Services,
+264,MGM Resorts,MGM,25,2.0,13.0,11.0,2,Moderate Controversy,Consumer Cyclical,
+265,Mohawk Industries,MHK,14,6.0,4.0,4.0,2,Moderate Controversy,Consumer Cyclical,
+266,McCormick & Company,MKC,27,10.1,11.3,5.2,2,Moderate Controversy,Consumer Defensive,"McCormick & Company is an American multinational food company that manufactures, markets, and distributes spices, seasoning mixes, condiments, and other flavoring products to retail outlets, food manufacturers, and foodservice businesses."
+267,Martin Marietta Materials,MLM,32,18.5,4.5,8.7,2,Moderate Controversy,Basic Materials,"Martin Marietta Materials, Inc. is an American-based company. The company is a supplier of aggregates and heavy building materials, with operations spanning 26 states, Canada and the Caribbean. In particular, Martin Marietta supplies the resources for roads, sidewalks and foundations."
+268,Marsh McLennan,MMC,19,0.1,7.9,11.5,2,Moderate Controversy,Financial Services,"Marsh McLennan (formerly known as Marsh & McLennan Companies) is a global professional services firm, headquartered in New York City with businesses in insurance brokerage, risk management, reinsurance services, talent management, investment advisory, and management consulting. Its four main operating companies are Marsh, Guy Carpenter, Mercer, and Oliver Wyman."
+269,3M,MMM,34,12.3,13.6,7.7,3,Relatively High Controversy,Industrials,"The 3M Company is an American multinational conglomerate corporation operating in the fields of industry, worker safety, US health care, and consumer goods. The company produces over 60,000 products under several brands, including adhesives, abrasives, laminates, passive fire protection, personal protective equipment, window films, paint protection films, dental and orthodontic products, electrical and electronic connecting and insulating materials, medical products, car-care products, electronic circuits, healthcare software and optical films. It is based in Maplewood, a suburb of Saint Paul, Minnesota."
+270,Monster Beverage,MNST,28,12.0,11.0,5.0,2,Moderate Controversy,Consumer Defensive,"Monster Beverage Corporation is an American beverage company that manufactures energy drinks including Monster Energy, Relentless and Burn."
+271,Altria,MO,24,4.7,13.0,6.3,2,Moderate Controversy,Consumer Defensive,"Altria Group, Inc. (previously known as Philip Morris Companies, Inc.) is an American corporation and one of the world's largest producers and marketers of tobacco, cigarettes and related products. It operates worldwide and is headquartered in unincorporated Henrico County, Virginia, just outside the city of Richmond."
+272,Mosaic Company (The),MOS,34,14.0,11.0,9.0,2,Moderate Controversy,Basic Materials,
+273,Marathon Petroleum,MPC,29,15.9,7.0,5.8,3,Relatively High Controversy,Energy,
+274,Merck & Co.,MRK,22,1.0,11.0,10.0,3,Relatively High Controversy,Healthcare,
+275,Marathon Oil,MRO,42,23.9,10.1,8.0,2,Moderate Controversy,Energy,
+276,Morgan Stanley,MS,22,1.0,12.0,10.0,3,Relatively High Controversy,Financial Services,
+277,MSCI,MSCI,16,2.0,7.0,8.0,0,No Controversy,Financial Services,
+278,Microsoft,MSFT,15,2.0,8.0,5.0,3,Relatively High Controversy,Technology,
+279,Motorola Solutions,MSI,14,2.0,7.0,5.0,3,Relatively High Controversy,Technology,
+280,M&T Bank,MTB,26,2.2,12.8,11.2,1,Little Controversy,Financial Services,
+281,Mettler Toledo,MTD,13,1.0,7.0,5.0,0,No Controversy,Healthcare,"Mettler Toledo (NYSE: MTD) is a multinational manufacturer of scales and analytical instruments. It is the largest provider of weighing instruments for use in laboratory, industrial, and food retailing applications. The company also provides various analytical instruments, process analytics instruments, and end-of-line inspection systems."
+282,Micron Technology,MU,17,7.0,5.0,6.0,2,Moderate Controversy,Technology,"Micron Technology, Inc. is an American producer of computer memory and computer data storage including dynamic random-access memory, flash memory, and USB flash drives. It is headquartered in Boise, Idaho."
+283,Norwegian Cruise Line Holdings,NCLH,26,12.0,10.0,4.0,2,Moderate Controversy,Consumer Cyclical,"Norwegian Cruise Line Holdings Ltd., is a cruise company in North America, Europe, Asia-Pacific and internationally. The company is headquartered in Miami, Florida."
+284,Nasdaq Inc.,NDAQ,12,2.0,5.0,5.0,1,Little Controversy,Financial Services,"Nasdaq, Inc. is an American multinational financial services corporation that owns and operates stock exchanges in the United States and Europe. It is headquartered in New York City."
+285,Nordson Corporation,NDSN,27,9.0,12.0,6.0,1,Little Controversy,Industrials,"Nordson Corporation designs, manufactures, and markets products and systems for dispensing, applying, and controlling adhesives, coatings, polymers, sealants, biomaterials, and other fluids globally. The company is headquartered in Westlake, Ohio."
+286,NextEra Energy,NEE,28,14.0,8.0,6.0,2,Moderate Controversy,Utilities,
+287,Newmont,NEM,20,7.0,8.0,5.0,3,Relatively High Controversy,Basic Materials,
+288,Netflix,NFLX,16,0.0,7.0,9.0,2,Moderate Controversy,Communication Services,
+289,NiSource,NI,30,14.0,10.0,5.0,3,Relatively High Controversy,Utilities,
+290,"Nike, Inc.",NKE,17,3.0,7.0,7.0,3,Relatively High Controversy,Consumer Cyclical,
+291,Northrop Grumman,NOC,27,7.0,15.0,5.0,2,Moderate Controversy,Industrials,
+292,ServiceNow,NOW,16,1.0,8.0,6.0,1,Little Controversy,Technology,
+293,NRG Energy,NRG,32,17.0,9.0,6.0,2,Moderate Controversy,Utilities,
+294,Norfolk Southern Railway,NSC,23,8.0,11.0,3.0,2,Moderate Controversy,Industrials,
+295,NetApp,NTAP,15,3.0,7.0,6.0,1,Little Controversy,Technology,
+296,Northern Trust,NTRS,24,2.0,12.0,10.0,2,Moderate Controversy,Financial Services,"Northern Trust Corporation is a financial services company headquartered in Chicago, Illinois that caters to corporations, institutional investors, and ultra high net worth individuals."
+297,Nucor,NUE,32,10.0,13.0,9.0,2,Moderate Controversy,Basic Materials,"Nucor Corporation is a producer of steel and related products based in Charlotte, North Carolina."
+298,Nvidia,NVDA,13,2.0,5.0,6.0,2,Moderate Controversy,Technology,"Nvidia Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California. It designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market."
+299,"NVR, Inc.",NVR,20,7.0,8.0,5.0,1,Little Controversy,Consumer Cyclical,"NVR, Inc. is a company engaged in home construction. It also operates a mortgage banking and title services business. The company primarily operates on the East Coast of the United States."
+300,Newell Brands,NWL,14,6.0,4.0,3.0,2,Moderate Controversy,Consumer Defensive,"Newell Brands is an American worldwide manufacturer, marketer and distributor of consumer and commercial products with a portfolio of brands."
+301,News Corp (Class A),NWSA,12,0.0,5.0,7.0,2,Moderate Controversy,Communication Services,"News Corporation is an American mass media and publishing company operating across digital real estate information, news media, book publishing, and cable television."
+302,NXP Semiconductors,NXPI,22,9.0,7.0,6.0,1,Little Controversy,Technology,
+303,Realty Income,O,15,4.0,5.0,6.0,2,Moderate Controversy,Real Estate,
+304,ONEOK,OKE,26,12.0,11.0,3.0,1,Little Controversy,Energy,
+305,Omnicom Group,OMC,16,0.0,9.0,7.0,1,Little Controversy,Communication Services,
+306,ON Semiconductor,ON,27,15.0,6.0,5.0,1,Little Controversy,Technology,
+307,Oracle Corporation,ORCL,14,1.0,8.0,6.0,2,Moderate Controversy,Technology,
+308,O'Reilly Auto Parts,ORLY,13,0.0,9.0,4.0,1,Little Controversy,Consumer Cyclical,
+309,Occidental Petroleum,OXY,43,25.0,12.0,7.0,2,Moderate Controversy,Energy,
+310,Paychex,PAYX,17,1.0,10.0,7.0,0,No Controversy,Industrials,
+311,Paccar,PCAR,28,8.0,11.0,8.0,3,Relatively High Controversy,Industrials,"PACCAR Inc is an American Fortune 500 company and counts among the largest manufacturers of medium- and heavy-duty trucks in the world. PACCAR is engaged in the design, manufacture and customer support of light-, medium- and heavy-duty trucks under the Kenworth, Peterbilt, Leyland Trucks, and DAF nameplates. PACCAR also designs and manufactures powertrains, provides financial services and information technology, and distributes truck parts related to its principal business."
+312,PG&E Corporation,PCG,35,8.0,21.0,6.0,5,Severe Controversy,Utilities,"PG&E Corporation, through its subsidiary, Pacific Gas and Electric Company, is engaged in the sale and delivery of electricity and natural gas to customers in northern and central California, United States. The company is headquartered in San Francisco, California."
+313,Healthpeak,PEAK,10,3.0,2.2,4.5,0,No Controversy,Real Estate,"Healthpeak Properties, Inc. is a real estate investment trust that invests in real estate related to the healthcare industry including senior housing, life science, and medical offices. It is organized in Maryland and headquartered in Denver, Colorado."
+314,Public Service Enterprise Group,PEG,26,12.0,9.0,5.0,2,Moderate Controversy,Utilities,"The Public Service Enterprise Group (PSEG) is a publicly traded diversified energy company headquartered in Newark, New Jersey."
+315,PepsiCo,PEP,16,5.0,7.0,4.0,3,Relatively High Controversy,Consumer Defensive,"PepsiCo, Inc. is an American based multinational food, snack, and beverage corporation headquartered in Harrison, New York, in the hamlet of Purchase. PepsiCo's business encompasses all aspects of the food and beverage market. It oversees the manufacturing, distribution, and marketing of its products."
+316,Pfizer,PFE,25,3.0,13.0,10.0,3,Relatively High Controversy,Healthcare,"Pfizer Inc. is an American multinational pharmaceutical and biotechnology corporation headquartered on 42nd Street in Manhattan, New York City. The name of the company commemorates its co-founder, Charles Pfizer (1824-1906). Pfizer develops and produces medicines and vaccines for immunology, oncology, cardiology, endocrinology, and neurology. The company has several blockbuster drugs or products that each generate more than 1 billion USD in annual revenues."
+317,Principal Financial Group,PFG,17,1.0,7.0,10.0,1,Little Controversy,Financial Services,
+318,Procter & Gamble,PG,27,10.0,10.0,7.0,3,Relatively High Controversy,Consumer Defensive,
+319,Progressive Corporation,PGR,21,2.0,8.0,11.0,1,Little Controversy,Financial Services,
+320,Parker Hannifin,PH,29,9.0,14.0,6.0,2,Moderate Controversy,Industrials,
+321,PulteGroup,PHM,21,9.0,7.0,5.0,2,Moderate Controversy,Consumer Cyclical,
+322,Packaging Corporation of America,PKG,17,12.0,1.0,4.0,1,Little Controversy,Consumer Cyclical,
+323,PerkinElmer,PKI,17,1.0,10.0,6.0,2,Moderate Controversy,Healthcare,
+324,Prologis,PLD,9,2.0,2.0,4.0,1,Little Controversy,Real Estate,
+325,Philip Morris International,PM,24,4.0,11.0,9.0,3,Relatively High Controversy,Consumer Defensive,
+326,PNC Financial Services,PNC,22,2.0,12.0,9.0,3,Relatively High Controversy,Financial Services,"PNC Financial Services Group, Inc. (stylized as PNC) is a bank holding company and financial services corporation based in Pittsburgh, Pennsylvania. Its banking subsidiary, PNC Bank, operates in 21 states and the District of Columbia with 2,296 branches and 9,051 ATMs. The company also provides financial services such as asset management, wealth management, estate planning, loan servicing, and information processing."
+327,Pentair,PNR,23,7.0,10.0,6.0,1,Little Controversy,Industrials,"Pentair plc (PNR) is an American water treatment company with its main U.S. office in Minneapolis, Minnesota."
+328,Pinnacle West,PNW,31,15.0,10.0,6.0,1,Little Controversy,Utilities,Pinnacle West Capital is a utility holding company that owns Arizona Public Service and Bright Canyon Energy.
+329,PPG Industries,PPG,24,9.0,8.0,7.0,1,Little Controversy,Basic Materials,"PPG Industries, Inc. is an American Fortune 500 company and global supplier of paints, coatings, and specialty materials. With headquarters in Pittsburgh, Pennsylvania, PPG operates in more than 70 countries around the globe."
+330,PPL Corporation,PPL,34,20.0,8.0,6.0,2,Moderate Controversy,Utilities,"PPL Corporation is an energy company headquartered in Allentown, Pennsylvania, United States."
+331,Prudential Financial,PRU,16,1.0,7.0,9.0,1,Little Controversy,Financial Services,"Prudential Financial, Inc. is an American company whose subsidiaries provide insurance, investment management, and other financial products and services to both retail and institutional customers throughout the United States and in over 40 other countries."
+332,Public Storage,PSA,12,5.0,3.0,5.0,1,Little Controversy,Real Estate,
+333,Phillips 66,PSX,29,16.0,7.0,6.0,3,Relatively High Controversy,Energy,
+334,PTC,PTC,19,5.0,9.0,5.0,0,No Controversy,Technology,
+335,Quanta Services,PWR,37,12.0,16.0,9.0,2,Moderate Controversy,Industrials,
+336,Pioneer Natural Resources,PXD,37,19.0,9.0,9.0,1,Little Controversy,Energy,
+337,PayPal,PYPL,16,1.0,10.0,5.0,2,Moderate Controversy,Financial Services,
+338,Qualcomm,QCOM,17,5.0,4.0,8.0,4,Severe Controversy,Technology,
+339,Qorvo,QRVO,29,13.0,8.0,7.0,0,No Controversy,Technology,
+340,Royal Caribbean Group,RCL,21,9.0,8.0,4.0,3,Relatively High Controversy,Consumer Cyclical,
+341,Everest Re,RE,18,1.4,6.7,10.0,1,Little Controversy,Financial Services,"Everest Re Group is a reinsurance company based in Hamilton, Bermuda."
+342,Regency Centers,REG,11,4.0,3.0,4.0,0,No Controversy,Real Estate,"Regency Centers Corporation is a real estate investment trust based in Jacksonville, Florida and is one of the largest operators of shopping centers with grocery stores as anchor tenants."
+343,Regeneron,REGN,18,0.0,11.0,7.0,2,Moderate Controversy,Healthcare,"Regeneron Pharmaceuticals, Inc. is an American biotechnology company headquartered in Westchester County, New York. Originally focused on neurotrophic factors and their regenerative capabilities, giving rise to its name, the company then branched out into the study of both cytokine and tyrosine kinase receptors."
+344,Regions Financial Corporation,RF,16,2.0,7.0,7.0,2,Moderate Controversy,Financial Services,"Regions Financial Corporation is a bank holding company headquartered in the Regions Center in Birmingham, Alabama. The company provides retail banking and commercial banking, trust, stockbrokerage, and mortgage services."
+345,Robert Half,RHI,11,0.0,7.0,3.0,1,Little Controversy,Industrials,"Robert Half International, or commonly referred as, Robert Half, is a global human resource consulting firm based in Menlo Park, California."
+346,Raymond James,RJF,24,1.0,10.0,12.0,2,Moderate Controversy,Financial Services,
+347,Ralph Lauren Corporation,RL,13,1.0,7.0,5.0,2,Moderate Controversy,Consumer Cyclical,
+348,ResMed,RMD,26,3.0,12.0,11.0,1,Little Controversy,Healthcare,
+349,Rockwell Automation,ROK,18,5.0,7.0,6.0,2,Moderate Controversy,Industrials,
+350,"Rollins, Inc.",ROL,20,2.0,11.0,7.0,1,Little Controversy,Consumer Cyclical,
+351,Roper Technologies,ROP,23,5.0,13.0,6.0,0,No Controversy,Technology,
+352,Ross Stores,ROST,16,2.0,8.0,6.0,2,Moderate Controversy,Consumer Cyclical,
+353,Republic Services,RSG,21,11.0,6.0,4.0,3,Relatively High Controversy,Industrials,
+354,SBA Communications,SBAC,12,3.0,3.0,5.0,0,No Controversy,Real Estate,
+355,Starbucks,SBUX,25,6.0,14.0,4.0,3,Relatively High Controversy,Consumer Cyclical,
+356,Charles Schwab Corporation,SCHW,24,2.1,10.1,11.8,2,Moderate Controversy,Financial Services,"The Charles Schwab Corporation is an American multinational financial services company. It offers banking, commercial banking, an electronic trading platform, and wealth management advisory services to both retail and institutional clients."
+357,Sealed Air,SEE,21,16.0,2.0,3.0,2,Moderate Controversy,Consumer Cyclical,Sealed Air Corporation is a packaging company known for its brands: Cryovac food packaging and Bubble Wrap cushioning packaging.
+358,Sherwin-Williams,SHW,29,13.0,9.0,7.0,2,Moderate Controversy,Basic Materials,"Sherwin Williams Company is a Cleveland, Ohio based company in the paint and coating manufacturing industry. The company primarily engages in the manufacture, distribution, and sale of paints, coatings, floorcoverings, and related products to professional, industrial, commercial, and retail customers primarily in North and South America and Europe."
+359,J.M. Smucker Company (The),SJM,31,12.0,12.0,6.0,2,Moderate Controversy,Consumer Defensive,"The J. M. Smucker Company, also known as Smucker and Smucker's, is an American manufacturer of jam, peanut butter, jelly, fruit syrups, beverages, shortening, ice cream toppings, and other products in North America. Smucker's headquarters are located in Orrville, Ohio."
+360,Schlumberger,SLB,22,7.0,9.0,6.0,1,Little Controversy,Energy,"Schlumberger Limited is an oilfield services company. Schlumberger has four principal executive offices located in Paris, Houston, London, and The Hague."
+361,Snap-on,SNA,31,9.0,14.0,8.0,1,Little Controversy,Industrials,"Snap-on Incorporated is an American designer, manufacturer and marketer of high-end tools and equipment for professional use in the transportation industry including the automotive, heavy duty, equipment, marine, aviation, and railroad industries."
+362,Synopsys,SNPS,13,3.0,6.0,4.0,0,No Controversy,Technology,
+363,Southern Company,SO,33,15.0,11.0,7.0,2,Moderate Controversy,Utilities,
+364,Simon Property Group,SPG,14,4.0,4.0,6.0,1,Little Controversy,Real Estate,
+365,S&P Global,SPGI,14,0.0,6.0,8.0,1,Little Controversy,Financial Services,
+366,Sempra Energy,SRE,25,12.0,7.0,6.0,3,Relatively High Controversy,Utilities,
+367,Steel Dynamics,STLD,32,10.0,14.0,8.0,1,Little Controversy,Basic Materials,
+368,State Street Corporation,STT,22,2.0,11.0,9.0,2,Moderate Controversy,Financial Services,
+369,Seagate Technology,STX,11,2.0,4.0,5.0,1,Little Controversy,Technology,
+370,Constellation Brands,STZ,26,10.4,10.0,5.4,2,Moderate Controversy,Consumer Defensive,
+371,Stanley Black & Decker,SWK,26,6.0,13.0,8.0,2,Moderate Controversy,Industrials,"Stanley Black & Decker, Inc., formerly known as The Stanley Works, is a Fortune 500 American manufacturer of industrial tools and household hardware and provider of security products. Headquartered in the greater Hartford city of New Britain, Connecticut, Stanley Black & Decker is the result of the merger of Stanley Works and Black & Decker on March 12, 2010."
+372,Skyworks Solutions,SWKS,28,12.0,9.0,7.0,1,Little Controversy,Technology,"Skyworks Solutions, Inc. is an American semiconductor company headquartered in Irvine, California, United States. Skyworks manufactures semiconductors for use in Radio Frequency (RF) and mobile communications systems."
+373,Synchrony Financial,SYF,17,0.0,10.0,7.0,2,Moderate Controversy,Financial Services,"Synchrony Financial is a consumer financial services company headquartered in Stamford, Connecticut, United States. The company offers consumer financing products, including credit, promotional financing and loyalty programs, installment lending to industries, and FDIC-insured consumer savings products through Synchrony Bank, its wholly owned online bank subsidiary."
+374,Stryker Corporation,SYK,29,4.0,14.0,11.0,3,Relatively High Controversy,Healthcare,"Stryker Corporation is an American multinational medical technologies corporation based in Kalamazoo, Michigan. Stryker's products include implants used in joint replacement and trauma surgeries; surgical equipment and surgical navigation systems; endoscopic and communications systems; patient handling and emergency medical equipment; neurosurgical, neurovascular and spinal devices; as well as other medical device products used in a variety of medical specialties."
+375,Sysco,SYY,12,3.0,5.0,5.0,2,Moderate Controversy,Consumer Defensive,"Sysco Corporation is an American multinational corporation involved in marketing and distributing food products, smallwares, kitchen equipment and tabletop items to restaurants, healthcare and educational facilities, hospitality businesses like hotels and inns, and wholesale to other companies that provide foodservice (like Aramark and Sodexo). The company is headquartered in the Energy Corridor district of Houston, Texas."
+376,AT&T,T,22,2.3,13.1,6.7,3,Relatively High Controversy,Communication Services,"AT&T Inc. is an American multinational conglomerate holding company, Delaware-registered but headquartered at Whitacre Tower in Downtown Dallas, Texas. It is the world largest telecommunications company, and the second largest provider of mobile telephone services."
+377,Molson Coors Beverage Company,TAP,21,7.0,9.0,6.0,2,Moderate Controversy,Consumer Defensive,
+378,TransDigm Group,TDG,39,13.0,18.0,8.0,2,Moderate Controversy,Industrials,
+379,TE Connectivity,TEL,16,6.0,5.0,5.0,0,No Controversy,Technology,
+380,Teradyne,TER,16,6.0,5.0,5.0,0,No Controversy,Technology,
+381,Teleflex,TFX,30,5.0,16.0,9.0,2,Moderate Controversy,Healthcare,
+382,Target Corporation,TGT,15,2.0,8.0,5.0,3,Relatively High Controversy,Consumer Defensive,
+383,TJX Companies,TJX,14,2.0,7.0,5.0,2,Moderate Controversy,Consumer Cyclical,
+384,Thermo Fisher Scientific,TMO,14,1.0,6.0,6.0,3,Relatively High Controversy,Healthcare,
+385,T-Mobile US,TMUS,26,5.0,13.0,8.0,3,Relatively High Controversy,Communication Services,
+386,"Tapestry, Inc.",TPR,13,1.0,7.0,5.0,2,Moderate Controversy,Consumer Cyclical,"Tapestry, Inc. is an American multinational luxury fashion holding company. It is based in New York City and is the parent company of three major brands: Coach New York, Kate Spade New York and Stuart Weitzman."
+387,Targa Resources,TRGP,34,15.0,15.0,4.0,2,Moderate Controversy,Energy,"Targa Resources Corp. The company is headquartered in Houston, Texas."
+388,Trimble Inc.,TRMB,13,3.0,4.0,6.0,0,No Controversy,Technology,"Trimble Inc. is a Sunnyvale, California-based hardware, software and services technology company. Trimble services global industries in Agriculture, Building & Construction, Geospatial, Natural Resources and Utilities, Governments, Transportation and others. Trimble also does hardware development of Global Navigation Satellite System (GNSS) receivers, scanners, laser rangefinders, unmanned aerial vehicles (UAVs), inertial navigation systems and software processing tools."
+389,T. Rowe Price,TROW,17,2.0,9.0,5.0,1,Little Controversy,Financial Services,"T. Rowe Price Group, Inc. is an American publicly owned global investment management firm that offers funds, advisory services, account management, and retirement plans and services for individuals, institutions, and financial intermediaries."
+390,Travelers Companies (The),TRV,21,1.0,9.0,10.0,1,Little Controversy,Financial Services,"The Travelers Companies, Inc., commonly known as Travelers, is an American insurance company."
+391,Tractor Supply,TSCO,14,3.0,7.0,4.0,2,Moderate Controversy,Consumer Cyclical,
+392,"Tesla, Inc.",TSLA,29,3.0,16.0,10.0,3,Relatively High Controversy,Consumer Cyclical,
+393,Tyson Foods,TSN,37,14.0,12.0,10.0,4,Severe Controversy,Consumer Defensive,
+394,Trane Technologies,TT,16,7.0,4.0,5.0,2,Moderate Controversy,Industrials,
+395,Texas Instruments,TXN,20,9.0,5.0,6.0,2,Moderate Controversy,Technology,
+396,Textron,TXT,34,11.0,16.0,7.0,2,Moderate Controversy,Industrials,
+397,United Airlines Holdings,UAL,29,11.0,13.0,5.0,2,Moderate Controversy,Industrials,
+398,"UDR, Inc.",UDR,12,3.0,4.0,5.0,1,Little Controversy,Real Estate,
+399,Universal Health Services,UHS,33,4.0,21.0,9.0,3,Relatively High Controversy,Healthcare,
+400,Ulta Beauty,ULTA,15,4.0,7.0,4.0,2,Moderate Controversy,Consumer Cyclical,"Ulta Beauty, Inc., formerly known as Ulta Salon, Cosmetics & Fragrance Inc., is an American chain of beauty stores headquartered in Bolingbrook, Illinois. Ulta Beauty carries cosmetics and skincare brands, men's and women's fragrances, nail products, bath and body products, beauty tools and haircare products."
+401,UnitedHealth Group,UNH,18,0.0,12.0,6.0,3,Relatively High Controversy,Healthcare,"UnitedHealth Group Incorporated is an American for-profit multinational managed healthcare and insurance company based in Minnetonka, Minnesota. It offers health care products and insurance services. In 2020, it was the second-largest healthcare company (behind CVS Health) by revenue with $257.1 billion, and the largest insurance company by net premiums. UnitedHealthcare revenues comprise 80% of the Group's overall revenue."
+402,Union Pacific Corporation,UNP,25,9.0,12.0,4.0,2,Moderate Controversy,Industrials,"The Union Pacific Corporation (Union Pacific) is a publicly traded railroad holding company. It was incorporated in Utah in 1969 and is headquartered in Omaha, Nebraska. It is the parent company of the current, Delaware-registered, form of the Union Pacific Railroad."
+403,United Parcel Service,UPS,20,5.0,10.0,5.0,2,Moderate Controversy,Industrials,United Parcel Service is an American multinational shipping & receiving and supply chain management company founded in 1907.
+404,United Rentals,URI,18,6.0,7.0,6.0,1,Little Controversy,Industrials,"United Rentals, Inc. (NYSE: URI) is the world's largest equipment rental company, with about 13 percent of the North American market share as of 2019."
+405,U.S. Bank,USB,30,2.0,16.0,12.0,3,Relatively High Controversy,Financial Services,"U.S. Bancorp is an American bank holding company based in Minneapolis, Minnesota, and incorporated in Delaware. The company provides banking, investment, mortgage, trust, and payment services products to individuals, businesses, governmental entities, and other financial institutions."
+406,Visa Inc.,V,16,1.0,8.0,8.0,3,Relatively High Controversy,Financial Services,
+407,VF Corporation,VFC,13,1.0,7.0,5.0,2,Moderate Controversy,Consumer Cyclical,
+408,Valero Energy,VLO,30,18.0,7.0,5.0,2,Moderate Controversy,Energy,
+409,Vulcan Materials Company,VMC,29,16.0,5.0,9.0,2,Moderate Controversy,Basic Materials,
+410,Verisk,VRSK,19,0.0,14.0,6.0,1,Little Controversy,Industrials,
+411,Verisign,VRSN,21,5.0,11.0,6.0,1,Little Controversy,Technology,
+412,Vertex Pharmaceuticals,VRTX,23,1.0,15.0,7.0,2,Moderate Controversy,Healthcare,
+413,Ventas,VTR,13,3.0,4.0,6.0,0,No Controversy,Real Estate,
+414,Verizon,VZ,18,4.0,9.0,6.0,3,Relatively High Controversy,Communication Services,"Verizon Communications Inc. is an American multinational telecommunications conglomerate and a corporate component of the Dow Jones Industrial Average. The company is headquartered at 1095 Avenue of the Americas in Midtown Manhattan, New York City, but is incorporated in Delaware."
+415,Wabtec,WAB,23,5.0,12.0,7.0,1,Little Controversy,Industrials,"Wabtec Corporation (derived from Westinghouse Air Brake Technologies Corporation) is an American company formed by the merger of the Westinghouse Air Brake Company (WABCO) and MotivePower Industries Corporation in 1999. It is headquartered in Pittsburgh, Pennsylvania."
+416,Waters Corporation,WAT,17,1.0,9.0,6.0,0,No Controversy,Healthcare,"Waters Corporation is a publicly traded Analytical Laboratory instrument and software company headquartered in Milford, Massachusetts."
+417,Walgreens Boots Alliance,WBA,18,2.0,12.0,5.0,3,Relatively High Controversy,Healthcare,"Walgreens Boots Alliance, Inc. is an American pharmaceuticals holding company headquartered in Deerfield, Illinois. It owns the pharmacy chains Walgreens and Boots, as well as several pharmaceutical manufacturing, wholesale, and distribution companies."
+418,Western Digital,WDC,11,1.0,4.0,6.0,1,Little Controversy,Technology,"Western Digital Corporation (WDC, commonly known as Western Digital or WD) is an American computer hard disk drive manufacturer and data storage company, headquartered in San Jose, California. It designs, manufactures and sells data technology products, including storage devices, data center systems and cloud storage services."
+419,WEC Energy Group,WEC,27,15.0,7.0,5.0,1,Little Controversy,Utilities,"WEC Energy Group, based in Milwaukee, Wisconsin, provides electricity and natural gas to 4.4 million customers across four states."
+420,Welltower,WELL,12,4.0,3.0,5.0,1,Little Controversy,Real Estate,
+421,Wells Fargo,WFC,33,2.0,15.0,16.0,5,Severe Controversy,Financial Services,
+422,Whirlpool Corporation,WHR,16,5.0,7.0,4.0,2,Moderate Controversy,Consumer Cyclical,
+423,Waste Management,WM,17,8.0,5.0,3.0,2,Moderate Controversy,Industrials,
+424,Williams Companies,WMB,24,10.0,10.0,3.0,2,Moderate Controversy,Energy,
+425,Walmart,WMT,25,4.0,14.0,6.0,4,Severe Controversy,Consumer Defensive,
+426,Berkley,WRB,22,2.0,7.9,12.0,1,Little Controversy,Financial Services,
+427,Willis Towers Watson,WTW,19,0.0,9.0,10.0,2,Moderate Controversy,Financial Services,None
+428,Weyerhaeuser,WY,18,10.0,3.0,4.0,2,Moderate Controversy,Real Estate,"Weyerhaeuser Company is an American timberland company which owns nearly 12,400,000 acres of timberlands in the U.S. and manages an additional 14,000,000 acres timberlands under long-term licenses in Canada. The company also manufactures wood products. Weyerhaeuser is a real estate investment trust."
+429,Wynn Resorts,WYNN,26,4.0,12.0,11.0,3,Relatively High Controversy,Consumer Cyclical,"Wynn Resorts, Limited is an American publicly traded corporation based in Paradise, Nevada that is a developer and operator of high end hotels and casinos."
+430,Xcel Energy,XEL,24,13.0,7.0,4.0,2,Moderate Controversy,Utilities,"Xcel Energy Inc. is a utility holding company based in Minneapolis, Minnesota, serving more than 3.7 million electric customers and 2.1 million natural gas customers in Minnesota, Michigan, Wisconsin, North Dakota, South Dakota, Colorado, Texas, and New Mexico as of 2019. It consists of four operating subsidiaries: Northern States Power-Minnesota, Northern States Power-Wisconsin, Public Service Company of Colorado, and Southwestern Public Service Co."
+431,ExxonMobil,XOM,36,18.5,9.8,8.1,3,Relatively High Controversy,Energy,"Exxon Mobil Corporation, stylized as ExxonMobil, is an American multinational oil and gas corporation headquartered in Irving, Texas. It is the largest direct descendant of John D. Rockefeller's Standard Oil, and was formed on November 30, 1999 by the merger of Exxon (formerly the Standard Oil Company of New Jersey) and Mobil (formerly the Standard Oil Company of New York). ExxonMobil's primary brands are Exxon, Mobil, Esso, and ExxonMobil Chemical. ExxonMobil is incorporated in New Jersey."
+432,Dentsply Sirona,XRAY,16,2.2,6.9,6.7,1,Little Controversy,Healthcare,Dentsply Sirona is an American dental equipment manufacturer and dental consumables producer that markets its products in over 120 countries.
+433,Xylem Inc.,XYL,16,4.0,7.0,5.0,1,Little Controversy,Industrials,
+434,Yum! Brands,YUM,21,4.0,12.0,4.0,2,Moderate Controversy,Consumer Cyclical,
+435,Zimmer Biomet,ZBH,27,4.0,15.0,8.0,2,Moderate Controversy,Healthcare,
+436,Zoetis,ZTS,18,1.0,8.0,9.0,1,Little Controversy,Healthcare,
